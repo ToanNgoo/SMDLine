@@ -1,0 +1,345 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{828D5CAA-11CB-4F60-B96F-83525DA7744E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ManageMaterialPBA</RootNamespace>
+    <AssemblyName>ManageMaterialPBA</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Gakuseisean-Aire-Developer.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxInterop.MSTSCLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\01. 2020\03. Manegement material\02. Remote\WinRemoteDesktop-master\WinRemoteDesktop\bin\Debug\AxInterop.MSTSCLib.dll</HintPath>
+    </Reference>
+    <Reference Include="BetterListViewExpress">
+      <HintPath>..\..\01. 2020\05. Manegement\Ver5\bin\Debug\BetterListViewExpress.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.MSTSCLib">
+      <HintPath>..\..\01. 2020\03. Manegement material\02. Remote\WinRemoteDesktop-master\WinRemoteDesktop\bin\Debug\Interop.MSTSCLib.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="OptionDefine, Version=18.12.24.1, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\OptionDefine.dll</HintPath>
+    </Reference>
+    <Reference Include="Spire.Barcode">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\e-iceblue\Spire.BarCode-Fe\Bin\NET4.0\Spire.Barcode.dll</HintPath>
+    </Reference>
+    <Reference Include="Spire.XLS">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\e-iceblue\Spire.XLS-FE\Bin\NET4.0\Spire.XLS.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="VncSharp">
+      <HintPath>C:\Users\SDIV\Downloads\RemoteDesktop\RemoteDesktop\RemoteDesktop\bin\Debug\VncSharp.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Resources\cls\ClipBoard.cs" />
+    <Compile Include="Resources\cls\Clsprint.cs" />
+    <Compile Include="Resources\cls\Firewall.cs" />
+    <Compile Include="Resources\cls\Helper.cs" />
+    <Compile Include="Resources\cls\ScheduleTask.cs" />
+    <Compile Include="Resources\cls\Settings.cs" />
+    <Compile Include="Resources\cls\Wallpaper.cs" />
+    <Compile Include="Resources\cls\WinCursor.cs" />
+    <Compile Include="Resources\Program\Remote\FormDesktop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\Program\Remote\FormDesktop.designer.cs">
+      <DependentUpon>FormDesktop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\cls\database_1.cs" />
+    <Compile Include="Resources\Program\Remote\Server.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\Program\Remote\Server.Designer.cs">
+      <DependentUpon>Server.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Program\SMD\Barcode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\Program\SMD\Barcode.designer.cs">
+      <DependentUpon>Barcode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\cls\ClsExcel.cs" />
+    <Compile Include="Resources\Program\SMD\ConfirmFiFo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\Program\SMD\ConfirmFiFo.Designer.cs">
+      <DependentUpon>ConfirmFiFo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Program\SMD\ConfirmInKTZ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\Program\SMD\ConfirmInKTZ.Designer.cs">
+      <DependentUpon>ConfirmInKTZ.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Program\SMD\ConfirmInOut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\Program\SMD\ConfirmInOut.Designer.cs">
+      <DependentUpon>ConfirmInOut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Program\SMD\ConfirmNVL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\Program\SMD\ConfirmNVL.Designer.cs">
+      <DependentUpon>ConfirmNVL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Program\SMD\ConfirmWHKTZ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\Program\SMD\ConfirmWHKTZ.Designer.cs">
+      <DependentUpon>ConfirmWHKTZ.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Program\SMD\InformationPicture.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\Program\SMD\InformationPicture.Designer.cs">
+      <DependentUpon>InformationPicture.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Program\SMD\NewCode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\Program\SMD\NewCode.Designer.cs">
+      <DependentUpon>NewCode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Program\SMD\SolderPaste.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\Program\SMD\SolderPaste.Designer.cs">
+      <DependentUpon>SolderPaste.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Program\SMD\StockKTZ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\Program\SMD\StockKTZ.Designer.cs">
+      <DependentUpon>StockKTZ.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Program\SMD\StockKTZ2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\Program\SMD\StockKTZ2.Designer.cs">
+      <DependentUpon>StockKTZ2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Program\SMD\StockLine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\Program\SMD\StockLine.Designer.cs">
+      <DependentUpon>StockLine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Program\SMD\StockLine2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\Program\SMD\StockLine2.Designer.cs">
+      <DependentUpon>StockLine2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Program\SMD\StockNVL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\Program\SMD\StockNVL.Designer.cs">
+      <DependentUpon>StockNVL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Program\SMD\TraceHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\Program\SMD\TraceHistory.Designer.cs">
+      <DependentUpon>TraceHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\cls\Global.cs" />
+    <Compile Include="Resources\Account\Change_pw.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\Account\Change_pw.designer.cs">
+      <DependentUpon>Change_pw.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Program\BOM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\Program\BOM.Designer.cs">
+      <DependentUpon>BOM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Account\AddUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\Account\AddUser.designer.cs">
+      <DependentUpon>AddUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\cls\database.cs" />
+    <Compile Include="Resources\Account\DeleteUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\Account\DeleteUser.designer.cs">
+      <DependentUpon>DeleteUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Main Form\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\Main Form\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Main Form\Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resources\cls\TXTClass.cs" />
+    <EmbeddedResource Include="Resources\Program\Remote\FormDesktop.resx">
+      <DependentUpon>FormDesktop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Program\Remote\Server.resx">
+      <DependentUpon>Server.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Program\SMD\Barcode.resx">
+      <DependentUpon>Barcode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Program\SMD\ConfirmFiFo.resx">
+      <DependentUpon>ConfirmFiFo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Program\SMD\ConfirmInKTZ.resx">
+      <DependentUpon>ConfirmInKTZ.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Program\SMD\ConfirmInOut.resx">
+      <DependentUpon>ConfirmInOut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Program\SMD\ConfirmNVL.resx">
+      <DependentUpon>ConfirmNVL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Program\SMD\ConfirmWHKTZ.resx">
+      <DependentUpon>ConfirmWHKTZ.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Program\SMD\InformationPicture.resx">
+      <DependentUpon>InformationPicture.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Program\SMD\NewCode.resx">
+      <DependentUpon>NewCode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Account\Change_pw.resx">
+      <DependentUpon>Change_pw.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Program\BOM.resx">
+      <DependentUpon>BOM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Account\AddUser.resx">
+      <DependentUpon>AddUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Account\DeleteUser.resx">
+      <DependentUpon>DeleteUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Main Form\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Resources\Program\SMD\SolderPaste.resx">
+      <DependentUpon>SolderPaste.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Program\SMD\StockKTZ.resx">
+      <DependentUpon>StockKTZ.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Program\SMD\StockKTZ2.resx">
+      <DependentUpon>StockKTZ2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Program\SMD\StockLine.resx">
+      <DependentUpon>StockLine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Program\SMD\StockLine2.resx">
+      <DependentUpon>StockLine2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Program\SMD\StockNVL.resx">
+      <DependentUpon>StockNVL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Program\SMD\TraceHistory.resx">
+      <DependentUpon>TraceHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Main Form\App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Max.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Min.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Menu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Gakuseisean-Aire-Developer.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Gakuseisean-Aire-Developer.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

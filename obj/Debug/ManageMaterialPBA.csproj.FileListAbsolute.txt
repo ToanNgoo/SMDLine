@@ -1,0 +1,1591 @@
+D:\PROGRAM\ManageMaterialPBA\bin\Debug\ManageMaterialPBA.exe.config
+D:\PROGRAM\ManageMaterialPBA\bin\Debug\ManageMaterialPBA.exe
+D:\PROGRAM\ManageMaterialPBA\bin\Debug\ManageMaterialPBA.pdb
+D:\PROGRAM\ManageMaterialPBA\obj\Debug\ManageMaterialPBA.csprojResolveAssemblyReference.cache
+D:\PROGRAM\ManageMaterialPBA\obj\Debug\ManageMaterialPBA.Form1.resources
+D:\PROGRAM\ManageMaterialPBA\obj\Debug\ManageMaterialPBA.Properties.Resources.resources
+D:\PROGRAM\ManageMaterialPBA\obj\Debug\ManageMaterialPBA.csproj.GenerateResource.Cache
+D:\PROGRAM\ManageMaterialPBA\obj\Debug\ManageMaterialPBA.exe
+D:\PROGRAM\ManageMaterialPBA\obj\Debug\ManageMaterialPBA.pdb
+D:\PROGRAM\ManageMaterialPBA\obj\Debug\ManageMaterialPBA.DOE.resources
+D:\PROGRAM\ManageMaterialPBA\obj\Debug\ManageMaterialPBA.New_Model.resources
+D:\PROGRAM\ManageMaterialPBA\obj\Debug\ManageMaterialPBA.DeleteUser.resources
+D:\PROGRAM\ManageMaterialPBA\obj\Debug\ManageMaterialPBA.HHP.resources
+D:\PROGRAM\ManageMaterialPBA\obj\Debug\ManageMaterialPBA.AddUser.resources
+D:\Giang\PROGRAM\ManageMaterialPBA\bin\Debug\ManageMaterialPBA.exe
+D:\Giang\PROGRAM\ManageMaterialPBA\bin\Debug\ManageMaterialPBA.exe.config
+D:\Giang\PROGRAM\ManageMaterialPBA\obj\Debug\ManageMaterialPBA.AddUser.resources
+D:\Giang\PROGRAM\ManageMaterialPBA\obj\Debug\ManageMaterialPBA.DeleteUser.resources
+D:\Giang\PROGRAM\ManageMaterialPBA\obj\Debug\ManageMaterialPBA.DOE.resources
+D:\Giang\PROGRAM\ManageMaterialPBA\obj\Debug\ManageMaterialPBA.Form1.resources
+D:\Giang\PROGRAM\ManageMaterialPBA\obj\Debug\ManageMaterialPBA.EditData.resources
+D:\Giang\PROGRAM\ManageMaterialPBA\obj\Debug\ManageMaterialPBA.HHP.resources
+D:\Giang\PROGRAM\ManageMaterialPBA\obj\Debug\ManageMaterialPBA.History.resources
+D:\Giang\PROGRAM\ManageMaterialPBA\obj\Debug\ManageMaterialPBA.KeepAndScrap.resources
+D:\Giang\PROGRAM\ManageMaterialPBA\obj\Debug\ManageMaterialPBA.New_Model.resources
+D:\Giang\PROGRAM\ManageMaterialPBA\obj\Debug\ManageMaterialPBA.Properties.Resources.resources
+D:\Giang\PROGRAM\ManageMaterialPBA\obj\Debug\ManageMaterialPBA.csproj.GenerateResource.Cache
+D:\Giang\PROGRAM\ManageMaterialPBA\obj\Debug\ManageMaterialPBA.exe
+D:\Giang\PROGRAM\ManageMaterialPBA\obj\Debug\ManageMaterialPBA.pdb
+D:\Giang\PROGRAM\ManageMaterialPBA\bin\Debug\ManageMaterialPBA.pdb
+D:\Giang\PROGRAM\ManageMaterialPBA\obj\Debug\ManageMaterialPBA.csprojResolveAssemblyReference.cache
+D:\Giang\PROGRAM\Ver2\bin\Debug\ManageMaterialPBA.exe.config
+D:\Giang\PROGRAM\Ver2\obj\Debug\ManageMaterialPBA.exe
+D:\Giang\PROGRAM\Ver2\obj\Debug\ManageMaterialPBA.pdb
+D:\Giang\PROGRAM\Ver2\bin\Debug\ManageMaterialPBA.exe
+D:\Giang\PROGRAM\Ver2\bin\Debug\ManageMaterialPBA.pdb
+D:\Giang\PROGRAM\Ver2\obj\Debug\ManageMaterialPBA.csprojResolveAssemblyReference.cache
+D:\Giang\PROGRAM\Ver2\obj\Debug\ManageMaterialPBA.AddUser.resources
+D:\Giang\PROGRAM\Ver2\obj\Debug\ManageMaterialPBA.DeleteUser.resources
+D:\Giang\PROGRAM\Ver2\obj\Debug\ManageMaterialPBA.DOE.resources
+D:\Giang\PROGRAM\Ver2\obj\Debug\ManageMaterialPBA.Form1.resources
+D:\Giang\PROGRAM\Ver2\obj\Debug\ManageMaterialPBA.EditData.resources
+D:\Giang\PROGRAM\Ver2\obj\Debug\ManageMaterialPBA.HHP.resources
+D:\Giang\PROGRAM\Ver2\obj\Debug\ManageMaterialPBA.History.resources
+D:\Giang\PROGRAM\Ver2\obj\Debug\ManageMaterialPBA.KeepAndScrap.resources
+D:\Giang\PROGRAM\Ver2\obj\Debug\ManageMaterialPBA.New_Model.resources
+D:\Giang\PROGRAM\Ver2\obj\Debug\ManageMaterialPBA.Properties.Resources.resources
+D:\Giang\PROGRAM\Ver2\obj\Debug\ManageMaterialPBA.csproj.GenerateResource.Cache
+D:\Giang\PROGRAM\Ver2\obj\Debug\ManageMaterialPBA.History_newModel.resources
+D:\Giang\PROGRAM\Ver3\bin\Debug\ManageMaterialPBA.exe.config
+D:\Giang\PROGRAM\Ver3\bin\Debug\ManageMaterialPBA.exe
+D:\Giang\PROGRAM\Ver3\bin\Debug\ManageMaterialPBA.pdb
+D:\Giang\PROGRAM\Ver3\obj\Debug\ManageMaterialPBA.History_newModel.resources
+D:\Giang\PROGRAM\Ver3\obj\Debug\ManageMaterialPBA.AddUser.resources
+D:\Giang\PROGRAM\Ver3\obj\Debug\ManageMaterialPBA.DeleteUser.resources
+D:\Giang\PROGRAM\Ver3\obj\Debug\ManageMaterialPBA.DOE.resources
+D:\Giang\PROGRAM\Ver3\obj\Debug\ManageMaterialPBA.Form1.resources
+D:\Giang\PROGRAM\Ver3\obj\Debug\ManageMaterialPBA.EditData.resources
+D:\Giang\PROGRAM\Ver3\obj\Debug\ManageMaterialPBA.HHP.resources
+D:\Giang\PROGRAM\Ver3\obj\Debug\ManageMaterialPBA.History.resources
+D:\Giang\PROGRAM\Ver3\obj\Debug\ManageMaterialPBA.KeepAndScrap.resources
+D:\Giang\PROGRAM\Ver3\obj\Debug\ManageMaterialPBA.New_Model.resources
+D:\Giang\PROGRAM\Ver3\obj\Debug\ManageMaterialPBA.Properties.Resources.resources
+D:\Giang\PROGRAM\Ver3\obj\Debug\ManageMaterialPBA.csproj.GenerateResource.Cache
+D:\Giang\PROGRAM\Ver3\obj\Debug\ManageMaterialPBA.exe
+D:\Giang\PROGRAM\Ver3\obj\Debug\ManageMaterialPBA.pdb
+D:\Giang\PROGRAM\Ver3\obj\Debug\ManageMaterialPBA.csprojResolveAssemblyReference.cache
+D:\Giang\PROGRAM\Ver4\bin\Debug\ManageMaterialPBA.exe.config
+D:\Giang\PROGRAM\Ver4\bin\Debug\ManageMaterialPBA.exe
+D:\Giang\PROGRAM\Ver4\bin\Debug\ManageMaterialPBA.pdb
+D:\Giang\PROGRAM\Ver4\obj\Debug\ManageMaterialPBA.History_newModel.resources
+D:\Giang\PROGRAM\Ver4\obj\Debug\ManageMaterialPBA.AddUser.resources
+D:\Giang\PROGRAM\Ver4\obj\Debug\ManageMaterialPBA.DeleteUser.resources
+D:\Giang\PROGRAM\Ver4\obj\Debug\ManageMaterialPBA.DOE.resources
+D:\Giang\PROGRAM\Ver4\obj\Debug\ManageMaterialPBA.Form1.resources
+D:\Giang\PROGRAM\Ver4\obj\Debug\ManageMaterialPBA.EditData.resources
+D:\Giang\PROGRAM\Ver4\obj\Debug\ManageMaterialPBA.HHP.resources
+D:\Giang\PROGRAM\Ver4\obj\Debug\ManageMaterialPBA.History.resources
+D:\Giang\PROGRAM\Ver4\obj\Debug\ManageMaterialPBA.KeepAndScrap.resources
+D:\Giang\PROGRAM\Ver4\obj\Debug\ManageMaterialPBA.New_Model.resources
+D:\Giang\PROGRAM\Ver4\obj\Debug\ManageMaterialPBA.Properties.Resources.resources
+D:\Giang\PROGRAM\Ver4\obj\Debug\ManageMaterialPBA.csproj.GenerateResource.Cache
+D:\Giang\PROGRAM\Ver4\obj\Debug\ManageMaterialPBA.exe
+D:\Giang\PROGRAM\Ver4\obj\Debug\ManageMaterialPBA.pdb
+D:\Giang\PROGRAM\Ver5\bin\Debug\ManageMaterialPBA.exe
+D:\Giang\PROGRAM\Ver5\bin\Debug\ManageMaterialPBA.exe.config
+D:\Giang\PROGRAM\Ver5\obj\Debug\ManageMaterialPBA.BOM.resources
+D:\Giang\PROGRAM\Ver5\obj\Debug\ManageMaterialPBA.History_doe.resources
+D:\Giang\PROGRAM\Ver5\obj\Debug\ManageMaterialPBA.History_newModel.resources
+D:\Giang\PROGRAM\Ver5\obj\Debug\ManageMaterialPBA.AddUser.resources
+D:\Giang\PROGRAM\Ver5\obj\Debug\ManageMaterialPBA.DeleteUser.resources
+D:\Giang\PROGRAM\Ver5\obj\Debug\ManageMaterialPBA.DOE.resources
+D:\Giang\PROGRAM\Ver5\obj\Debug\ManageMaterialPBA.Form1.resources
+D:\Giang\PROGRAM\Ver5\obj\Debug\ManageMaterialPBA.EditData.resources
+D:\Giang\PROGRAM\Ver5\obj\Debug\ManageMaterialPBA.HHP.resources
+D:\Giang\PROGRAM\Ver5\obj\Debug\ManageMaterialPBA.KeepAndScrap.resources
+D:\Giang\PROGRAM\Ver5\obj\Debug\ManageMaterialPBA.New_Model.resources
+D:\Giang\PROGRAM\Ver5\obj\Debug\ManageMaterialPBA.Properties.Resources.resources
+D:\Giang\PROGRAM\Ver5\obj\Debug\ManageMaterialPBA.csproj.GenerateResource.Cache
+D:\Giang\PROGRAM\Ver5\obj\Debug\ManageMaterialPBA.exe
+D:\Giang\PROGRAM\Ver5\obj\Debug\ManageMaterialPBA.pdb
+D:\Giang\PROGRAM\Ver5\bin\Debug\ManageMaterialPBA.pdb
+D:\Giang\PROGRAM\Ver5\obj\Debug\ManageMaterialPBA.csprojResolveAssemblyReference.cache
+D:\Giang\PROGRAM\Ver5\obj\Debug\ManageMaterialPBA.History.resources
+D:\Giang\PROGRAM\Ver5\obj\Debug\ManageMaterialPBA.Change_pw.resources
+D:\Giang\PROGRAM\Ver6\bin\Debug\ManageMaterialPBA.exe.config
+D:\Giang\PROGRAM\Ver6\obj\Debug\ManageMaterialPBA.exe
+D:\Giang\PROGRAM\Ver6\obj\Debug\ManageMaterialPBA.pdb
+D:\Giang\PROGRAM\Ver6\bin\Debug\ManageMaterialPBA.exe
+D:\Giang\PROGRAM\Ver6\bin\Debug\ManageMaterialPBA.pdb
+D:\Giang\PROGRAM\Ver6\obj\Debug\ManageMaterialPBA.csprojResolveAssemblyReference.cache
+D:\Giang\PROGRAM\Ver6\obj\Debug\ManageMaterialPBA.Change_pw.resources
+D:\Giang\PROGRAM\Ver6\obj\Debug\ManageMaterialPBA.BOM.resources
+D:\Giang\PROGRAM\Ver6\obj\Debug\ManageMaterialPBA.History_doe.resources
+D:\Giang\PROGRAM\Ver6\obj\Debug\ManageMaterialPBA.History.resources
+D:\Giang\PROGRAM\Ver6\obj\Debug\ManageMaterialPBA.History_newModel.resources
+D:\Giang\PROGRAM\Ver6\obj\Debug\ManageMaterialPBA.AddUser.resources
+D:\Giang\PROGRAM\Ver6\obj\Debug\ManageMaterialPBA.DeleteUser.resources
+D:\Giang\PROGRAM\Ver6\obj\Debug\ManageMaterialPBA.DOE.resources
+D:\Giang\PROGRAM\Ver6\obj\Debug\ManageMaterialPBA.Form1.resources
+D:\Giang\PROGRAM\Ver6\obj\Debug\ManageMaterialPBA.EditData.resources
+D:\Giang\PROGRAM\Ver6\obj\Debug\ManageMaterialPBA.HHP.resources
+D:\Giang\PROGRAM\Ver6\obj\Debug\ManageMaterialPBA.KeepAndScrap.resources
+D:\Giang\PROGRAM\Ver6\obj\Debug\ManageMaterialPBA.New_Model.resources
+D:\Giang\PROGRAM\Ver6\obj\Debug\ManageMaterialPBA.Properties.Resources.resources
+D:\Giang\PROGRAM\Ver6\obj\Debug\ManageMaterialPBA.csproj.GenerateResource.Cache
+D:\01. Project\02. 2021\PBA PC Program\bin\Debug\ManageMaterialPBA.exe.config
+D:\01. Project\02. 2021\PBA PC Program\obj\Debug\ManageMaterialPBA.exe
+D:\01. Project\02. 2021\PBA PC Program\obj\Debug\ManageMaterialPBA.pdb
+D:\01. Project\02. 2021\PBA PC Program\obj\Debug\ManageMaterialPBA.FormMain.resources
+D:\01. Project\02. 2021\PBA PC Program\obj\Debug\ManageMaterialPBA.Change_pw.resources
+D:\01. Project\02. 2021\PBA PC Program\obj\Debug\ManageMaterialPBA.BOM.resources
+D:\01. Project\02. 2021\PBA PC Program\obj\Debug\ManageMaterialPBA.History_doe.resources
+D:\01. Project\02. 2021\PBA PC Program\obj\Debug\ManageMaterialPBA.History.resources
+D:\01. Project\02. 2021\PBA PC Program\obj\Debug\ManageMaterialPBA.History_newModel.resources
+D:\01. Project\02. 2021\PBA PC Program\obj\Debug\ManageMaterialPBA.AddUser.resources
+D:\01. Project\02. 2021\PBA PC Program\obj\Debug\ManageMaterialPBA.DeleteUser.resources
+D:\01. Project\02. 2021\PBA PC Program\obj\Debug\ManageMaterialPBA.DOE.resources
+D:\01. Project\02. 2021\PBA PC Program\obj\Debug\ManageMaterialPBA.Form1.resources
+D:\01. Project\02. 2021\PBA PC Program\obj\Debug\ManageMaterialPBA.EditData.resources
+D:\01. Project\02. 2021\PBA PC Program\obj\Debug\ManageMaterialPBA.HHP.resources
+D:\01. Project\02. 2021\PBA PC Program\obj\Debug\ManageMaterialPBA.KeepAndScrap.resources
+D:\01. Project\02. 2021\PBA PC Program\obj\Debug\ManageMaterialPBA.New_Model.resources
+D:\01. Project\02. 2021\PBA PC Program\obj\Debug\ManageMaterialPBA.Properties.Resources.resources
+D:\01. Project\02. 2021\PBA PC Program\obj\Debug\ManageMaterialPBA.csproj.GenerateResource.Cache
+D:\01. Project\02. 2021\PBA PC Program\bin\Debug\ManageMaterialPBA.exe
+D:\01. Project\02. 2021\PBA PC Program\bin\Debug\ManageMaterialPBA.pdb
+D:\01. Project\02. 2021\PBA PC Program\bin\Debug\AxInterop.MSTSCLib.dll
+D:\01. Project\02. 2021\PBA PC Program\bin\Debug\BetterListViewExpress.dll
+D:\01. Project\02. 2021\PBA PC Program\obj\Debug\ManageMaterialPBA.FormDesktop.resources
+D:\01. Project\02. 2021\PBA PC Program\obj\Debug\ManageMaterialPBA.Material_In_Out.resources
+D:\01. Project\02. 2021\PBA PC Program\obj\Debug\ManageMaterialPBA.Mounter.resources
+D:\01. Project\02. 2021\PBA PC Program\obj\Debug\ManageMaterialPBA.NVL_Abnormal.resources
+D:\01. Project\02. 2021\PBA PC Program\obj\Debug\ManageMaterialPBA.Barcode.resources
+D:\01. Project\02. 2021\PBA PC Program\obj\Debug\ManageMaterialPBA.LotPCB.resources
+D:\01. Project\02. 2021\PBA PC Program\obj\Debug\ManageMaterialPBA.csprojResolveAssemblyReference.cache
+D:\01. Project\02. 2021\01. PBA PC Program\bin\Debug\ManageMaterialPBA.exe.config
+D:\01. Project\02. 2021\01. PBA PC Program\obj\Debug\ManageMaterialPBA.exe
+D:\01. Project\02. 2021\01. PBA PC Program\obj\Debug\ManageMaterialPBA.pdb
+D:\01. Project\02. 2021\01. PBA PC Program\bin\Debug\ManageMaterialPBA.exe
+D:\01. Project\02. 2021\01. PBA PC Program\bin\Debug\ManageMaterialPBA.pdb
+D:\01. Project\02. 2021\01. PBA PC Program\bin\Debug\AxInterop.MSTSCLib.dll
+D:\01. Project\02. 2021\01. PBA PC Program\bin\Debug\BetterListViewExpress.dll
+D:\01. Project\02. 2021\01. PBA PC Program\obj\Debug\ManageMaterialPBA.FormDesktop.resources
+D:\01. Project\02. 2021\01. PBA PC Program\obj\Debug\ManageMaterialPBA.FormMain.resources
+D:\01. Project\02. 2021\01. PBA PC Program\obj\Debug\ManageMaterialPBA.Barcode.resources
+D:\01. Project\02. 2021\01. PBA PC Program\obj\Debug\ManageMaterialPBA.LotPCB.resources
+D:\01. Project\02. 2021\01. PBA PC Program\obj\Debug\ManageMaterialPBA.Mounter.resources
+D:\01. Project\02. 2021\01. PBA PC Program\obj\Debug\ManageMaterialPBA.NVL_Abnormal.resources
+D:\01. Project\02. 2021\01. PBA PC Program\obj\Debug\ManageMaterialPBA.Material_In_Out.resources
+D:\01. Project\02. 2021\01. PBA PC Program\obj\Debug\ManageMaterialPBA.Change_pw.resources
+D:\01. Project\02. 2021\01. PBA PC Program\obj\Debug\ManageMaterialPBA.BOM.resources
+D:\01. Project\02. 2021\01. PBA PC Program\obj\Debug\ManageMaterialPBA.History_doe.resources
+D:\01. Project\02. 2021\01. PBA PC Program\obj\Debug\ManageMaterialPBA.History.resources
+D:\01. Project\02. 2021\01. PBA PC Program\obj\Debug\ManageMaterialPBA.History_newModel.resources
+D:\01. Project\02. 2021\01. PBA PC Program\obj\Debug\ManageMaterialPBA.AddUser.resources
+D:\01. Project\02. 2021\01. PBA PC Program\obj\Debug\ManageMaterialPBA.DeleteUser.resources
+D:\01. Project\02. 2021\01. PBA PC Program\obj\Debug\ManageMaterialPBA.DOE.resources
+D:\01. Project\02. 2021\01. PBA PC Program\obj\Debug\ManageMaterialPBA.Form1.resources
+D:\01. Project\02. 2021\01. PBA PC Program\obj\Debug\ManageMaterialPBA.EditData.resources
+D:\01. Project\02. 2021\01. PBA PC Program\obj\Debug\ManageMaterialPBA.HHP.resources
+D:\01. Project\02. 2021\01. PBA PC Program\obj\Debug\ManageMaterialPBA.KeepAndScrap.resources
+D:\01. Project\02. 2021\01. PBA PC Program\obj\Debug\ManageMaterialPBA.New_Model.resources
+D:\01. Project\02. 2021\01. PBA PC Program\obj\Debug\ManageMaterialPBA.Properties.Resources.resources
+D:\01. Project\02. 2021\01. PBA PC Program\obj\Debug\ManageMaterialPBA.csproj.GenerateResource.Cache
+D:\01. Project\02. 2021\01. PBA PC Program\bin\Debug\VncSharp.dll
+D:\01. Project\02. 2021\01. PBA PC Program\obj\Debug\ManageMaterialPBA.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\01. PBA PC Program\bin\Debug\ManageMaterialPBA.exe.config
+C:\Users\Admin\Desktop\01. PBA PC Program\obj\Debug\ManageMaterialPBA.exe
+C:\Users\Admin\Desktop\01. PBA PC Program\obj\Debug\ManageMaterialPBA.pdb
+C:\Users\Admin\Desktop\01. PBA PC Program\bin\Debug\ManageMaterialPBA.exe
+C:\Users\Admin\Desktop\01. PBA PC Program\bin\Debug\ManageMaterialPBA.pdb
+C:\Users\Admin\Desktop\01. PBA PC Program\obj\Debug\ManageMaterialPBA.FormDesktop.resources
+C:\Users\Admin\Desktop\01. PBA PC Program\obj\Debug\ManageMaterialPBA.FormMain.resources
+C:\Users\Admin\Desktop\01. PBA PC Program\obj\Debug\ManageMaterialPBA.Barcode.resources
+C:\Users\Admin\Desktop\01. PBA PC Program\obj\Debug\ManageMaterialPBA.LotPCB.resources
+C:\Users\Admin\Desktop\01. PBA PC Program\obj\Debug\ManageMaterialPBA.Mounter.resources
+C:\Users\Admin\Desktop\01. PBA PC Program\obj\Debug\ManageMaterialPBA.NVL_Abnormal.resources
+C:\Users\Admin\Desktop\01. PBA PC Program\obj\Debug\ManageMaterialPBA.Material_In_Out.resources
+C:\Users\Admin\Desktop\01. PBA PC Program\obj\Debug\ManageMaterialPBA.Change_pw.resources
+C:\Users\Admin\Desktop\01. PBA PC Program\obj\Debug\ManageMaterialPBA.BOM.resources
+C:\Users\Admin\Desktop\01. PBA PC Program\obj\Debug\ManageMaterialPBA.History_doe.resources
+C:\Users\Admin\Desktop\01. PBA PC Program\obj\Debug\ManageMaterialPBA.History.resources
+C:\Users\Admin\Desktop\01. PBA PC Program\obj\Debug\ManageMaterialPBA.History_newModel.resources
+C:\Users\Admin\Desktop\01. PBA PC Program\obj\Debug\ManageMaterialPBA.AddUser.resources
+C:\Users\Admin\Desktop\01. PBA PC Program\obj\Debug\ManageMaterialPBA.DeleteUser.resources
+C:\Users\Admin\Desktop\01. PBA PC Program\obj\Debug\ManageMaterialPBA.DOE.resources
+C:\Users\Admin\Desktop\01. PBA PC Program\obj\Debug\ManageMaterialPBA.Form1.resources
+C:\Users\Admin\Desktop\01. PBA PC Program\obj\Debug\ManageMaterialPBA.EditData.resources
+C:\Users\Admin\Desktop\01. PBA PC Program\obj\Debug\ManageMaterialPBA.HHP.resources
+C:\Users\Admin\Desktop\01. PBA PC Program\obj\Debug\ManageMaterialPBA.KeepAndScrap.resources
+C:\Users\Admin\Desktop\01. PBA PC Program\obj\Debug\ManageMaterialPBA.New_Model.resources
+C:\Users\Admin\Desktop\01. PBA PC Program\obj\Debug\ManageMaterialPBA.Properties.Resources.resources
+C:\Users\Admin\Desktop\01. PBA PC Program\obj\Debug\ManageMaterialPBA.csproj.GenerateResource.Cache
+D:\01. Project\02. 2021\03. Line7\01. PBA PC Program\01. PBA PC Program\bin\Debug\ManageMaterialPBA.exe.config
+D:\01. Project\02. 2021\03. Line7\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.exe
+D:\01. Project\02. 2021\03. Line7\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.pdb
+D:\01. Project\02. 2021\03. Line7\01. PBA PC Program\01. PBA PC Program\bin\Debug\ManageMaterialPBA.exe
+D:\01. Project\02. 2021\03. Line7\01. PBA PC Program\01. PBA PC Program\bin\Debug\ManageMaterialPBA.pdb
+D:\01. Project\02. 2021\03. Line7\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.FormDesktop.resources
+D:\01. Project\02. 2021\03. Line7\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.FormMain.resources
+D:\01. Project\02. 2021\03. Line7\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.Barcode.resources
+D:\01. Project\02. 2021\03. Line7\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.LotPCB.resources
+D:\01. Project\02. 2021\03. Line7\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.Mounter.resources
+D:\01. Project\02. 2021\03. Line7\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.NVL_Abnormal.resources
+D:\01. Project\02. 2021\03. Line7\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.Material_In_Out.resources
+D:\01. Project\02. 2021\03. Line7\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.Change_pw.resources
+D:\01. Project\02. 2021\03. Line7\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.BOM.resources
+D:\01. Project\02. 2021\03. Line7\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.History_doe.resources
+D:\01. Project\02. 2021\03. Line7\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.History.resources
+D:\01. Project\02. 2021\03. Line7\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.History_newModel.resources
+D:\01. Project\02. 2021\03. Line7\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.AddUser.resources
+D:\01. Project\02. 2021\03. Line7\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.DeleteUser.resources
+D:\01. Project\02. 2021\03. Line7\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.DOE.resources
+D:\01. Project\02. 2021\03. Line7\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.Form1.resources
+D:\01. Project\02. 2021\03. Line7\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.EditData.resources
+D:\01. Project\02. 2021\03. Line7\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.HHP.resources
+D:\01. Project\02. 2021\03. Line7\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.KeepAndScrap.resources
+D:\01. Project\02. 2021\03. Line7\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.New_Model.resources
+D:\01. Project\02. 2021\03. Line7\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.Properties.Resources.resources
+D:\01. Project\02. 2021\03. Line7\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.csproj.GenerateResource.Cache
+D:\01. Project\02. 2021\03. Line7\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.csprojResolveAssemblyReference.cache
+D:\01. Project\02. 2021\03. Line7\01. PBA PC Program\01. PBA PC Program\obj\Debug\RemoteClient.FrmHelp.resources
+D:\01. Project\02. 2021\03. Line7\01. PBA PC Program\01. PBA PC Program\obj\Debug\RemoteClient.FrmMain.resources
+D:\01. Project\02. 2021\01. PBA PC Program\01. PBA PC Program\bin\Debug\ManageMaterialPBA.exe.config
+D:\01. Project\02. 2021\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.FormDesktop.resources
+D:\01. Project\02. 2021\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.Barcode.resources
+D:\01. Project\02. 2021\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.LotPCB.resources
+D:\01. Project\02. 2021\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.Mounter.resources
+D:\01. Project\02. 2021\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.NVL_Abnormal.resources
+D:\01. Project\02. 2021\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.Material_In_Out.resources
+D:\01. Project\02. 2021\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.Change_pw.resources
+D:\01. Project\02. 2021\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.BOM.resources
+D:\01. Project\02. 2021\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.History_doe.resources
+D:\01. Project\02. 2021\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.History.resources
+D:\01. Project\02. 2021\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.History_newModel.resources
+D:\01. Project\02. 2021\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.AddUser.resources
+D:\01. Project\02. 2021\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.DeleteUser.resources
+D:\01. Project\02. 2021\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.DOE.resources
+D:\01. Project\02. 2021\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.Form1.resources
+D:\01. Project\02. 2021\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.EditData.resources
+D:\01. Project\02. 2021\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.HHP.resources
+D:\01. Project\02. 2021\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.KeepAndScrap.resources
+D:\01. Project\02. 2021\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.New_Model.resources
+D:\01. Project\02. 2021\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.Properties.Resources.resources
+D:\01. Project\02. 2021\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.csproj.GenerateResource.Cache
+D:\01. Project\02. 2021\01. PBA PC Program\01. PBA PC Program\bin\Debug\ManageMaterialPBA.exe
+D:\01. Project\02. 2021\01. PBA PC Program\01. PBA PC Program\bin\Debug\ManageMaterialPBA.pdb
+D:\01. Project\02. 2021\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.exe
+D:\01. Project\02. 2021\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.pdb
+D:\01. Project\02. 2021\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.Resources.Program.Remote.Server.resources
+D:\01. Project\02. 2021\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.csprojResolveAssemblyReference.cache
+C:\Users\SDIV\Desktop\01. PBA PC Program\01. PBA PC Program\bin\Debug\ManageMaterialPBA.exe.config
+C:\Users\SDIV\Desktop\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.exe
+C:\Users\SDIV\Desktop\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.pdb
+C:\Users\SDIV\Desktop\01. PBA PC Program\01. PBA PC Program\bin\Debug\ManageMaterialPBA.exe
+C:\Users\SDIV\Desktop\01. PBA PC Program\01. PBA PC Program\bin\Debug\ManageMaterialPBA.pdb
+C:\Users\SDIV\Desktop\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.csprojResolveAssemblyReference.cache
+C:\Users\SDIV\Desktop\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.FormDesktop.resources
+C:\Users\SDIV\Desktop\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.Resources.Program.Remote.Server.resources
+C:\Users\SDIV\Desktop\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.Barcode.resources
+C:\Users\SDIV\Desktop\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.LotPCB.resources
+C:\Users\SDIV\Desktop\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.Mounter.resources
+C:\Users\SDIV\Desktop\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.NVL_Abnormal.resources
+C:\Users\SDIV\Desktop\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.Material_In_Out.resources
+C:\Users\SDIV\Desktop\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.Change_pw.resources
+C:\Users\SDIV\Desktop\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.BOM.resources
+C:\Users\SDIV\Desktop\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.History_doe.resources
+C:\Users\SDIV\Desktop\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.History.resources
+C:\Users\SDIV\Desktop\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.History_newModel.resources
+C:\Users\SDIV\Desktop\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.AddUser.resources
+C:\Users\SDIV\Desktop\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.DeleteUser.resources
+C:\Users\SDIV\Desktop\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.DOE.resources
+C:\Users\SDIV\Desktop\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.Form1.resources
+C:\Users\SDIV\Desktop\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.EditData.resources
+C:\Users\SDIV\Desktop\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.HHP.resources
+C:\Users\SDIV\Desktop\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.KeepAndScrap.resources
+C:\Users\SDIV\Desktop\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.New_Model.resources
+C:\Users\SDIV\Desktop\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.Properties.Resources.resources
+C:\Users\SDIV\Desktop\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program\bin\Debug\ManageMaterialPBA.exe.config
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program\bin\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program\bin\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.FormDesktop.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.Resources.Program.Remote.Server.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.Barcode.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.LotPCB.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.Mounter.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.NVL_Abnormal.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.Material_In_Out.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.Change_pw.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.BOM.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.History_doe.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.History.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.History_newModel.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.AddUser.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.DeleteUser.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.DOE.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.Form1.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.EditData.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.HHP.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.KeepAndScrap.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.New_Model.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program\obj\Debug\ManageMaterialPBA.WH.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V02\bin\Debug\ManageMaterialPBA.exe.config
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V02\obj\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V02\obj\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V02\bin\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V02\bin\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V02\obj\Debug\ManageMaterialPBA.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V02\obj\Debug\ManageMaterialPBA.FormDesktop.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V02\obj\Debug\ManageMaterialPBA.Resources.Program.Remote.Server.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V02\obj\Debug\ManageMaterialPBA.Barcode.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V02\obj\Debug\ManageMaterialPBA.LotPCB.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V02\obj\Debug\ManageMaterialPBA.Mounter.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V02\obj\Debug\ManageMaterialPBA.NVL_Abnormal.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V02\obj\Debug\ManageMaterialPBA.Material_In_Out.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V02\obj\Debug\ManageMaterialPBA.Change_pw.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V02\obj\Debug\ManageMaterialPBA.BOM.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V02\obj\Debug\ManageMaterialPBA.History_doe.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V02\obj\Debug\ManageMaterialPBA.History.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V02\obj\Debug\ManageMaterialPBA.History_newModel.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V02\obj\Debug\ManageMaterialPBA.AddUser.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V02\obj\Debug\ManageMaterialPBA.DeleteUser.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V02\obj\Debug\ManageMaterialPBA.DOE.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V02\obj\Debug\ManageMaterialPBA.Form1.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V02\obj\Debug\ManageMaterialPBA.EditData.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V02\obj\Debug\ManageMaterialPBA.HHP.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V02\obj\Debug\ManageMaterialPBA.KeepAndScrap.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V02\obj\Debug\ManageMaterialPBA.New_Model.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V02\obj\Debug\ManageMaterialPBA.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V02\obj\Debug\ManageMaterialPBA.WH.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V02\obj\Debug\ManageMaterialPBA.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V02\obj\Debug\ManageMaterialPBA.NewCode.resources
+C:\Users\ngohuutoan\Desktop\Job\01. PBA PC Program - V02\bin\Debug\ManageMaterialPBA.exe.config
+C:\Users\ngohuutoan\Desktop\Job\01. PBA PC Program - V02\bin\Debug\ManageMaterialPBA.exe
+C:\Users\ngohuutoan\Desktop\Job\01. PBA PC Program - V02\bin\Debug\ManageMaterialPBA.pdb
+C:\Users\ngohuutoan\Desktop\Job\01. PBA PC Program - V02\obj\Debug\ManageMaterialPBA.csprojAssemblyReference.cache
+C:\Users\ngohuutoan\Desktop\Job\01. PBA PC Program - V02\obj\Debug\ManageMaterialPBA.FormDesktop.resources
+C:\Users\ngohuutoan\Desktop\Job\01. PBA PC Program - V02\obj\Debug\ManageMaterialPBA.Resources.Program.Remote.Server.resources
+C:\Users\ngohuutoan\Desktop\Job\01. PBA PC Program - V02\obj\Debug\ManageMaterialPBA.Barcode.resources
+C:\Users\ngohuutoan\Desktop\Job\01. PBA PC Program - V02\obj\Debug\ManageMaterialPBA.LotPCB.resources
+C:\Users\ngohuutoan\Desktop\Job\01. PBA PC Program - V02\obj\Debug\ManageMaterialPBA.Mounter.resources
+C:\Users\ngohuutoan\Desktop\Job\01. PBA PC Program - V02\obj\Debug\ManageMaterialPBA.NewCode.resources
+C:\Users\ngohuutoan\Desktop\Job\01. PBA PC Program - V02\obj\Debug\ManageMaterialPBA.NVL_Abnormal.resources
+C:\Users\ngohuutoan\Desktop\Job\01. PBA PC Program - V02\obj\Debug\ManageMaterialPBA.Material_In_Out.resources
+C:\Users\ngohuutoan\Desktop\Job\01. PBA PC Program - V02\obj\Debug\ManageMaterialPBA.Change_pw.resources
+C:\Users\ngohuutoan\Desktop\Job\01. PBA PC Program - V02\obj\Debug\ManageMaterialPBA.BOM.resources
+C:\Users\ngohuutoan\Desktop\Job\01. PBA PC Program - V02\obj\Debug\ManageMaterialPBA.History_doe.resources
+C:\Users\ngohuutoan\Desktop\Job\01. PBA PC Program - V02\obj\Debug\ManageMaterialPBA.History.resources
+C:\Users\ngohuutoan\Desktop\Job\01. PBA PC Program - V02\obj\Debug\ManageMaterialPBA.History_newModel.resources
+C:\Users\ngohuutoan\Desktop\Job\01. PBA PC Program - V02\obj\Debug\ManageMaterialPBA.AddUser.resources
+C:\Users\ngohuutoan\Desktop\Job\01. PBA PC Program - V02\obj\Debug\ManageMaterialPBA.DeleteUser.resources
+C:\Users\ngohuutoan\Desktop\Job\01. PBA PC Program - V02\obj\Debug\ManageMaterialPBA.DOE.resources
+C:\Users\ngohuutoan\Desktop\Job\01. PBA PC Program - V02\obj\Debug\ManageMaterialPBA.Form1.resources
+C:\Users\ngohuutoan\Desktop\Job\01. PBA PC Program - V02\obj\Debug\ManageMaterialPBA.EditData.resources
+C:\Users\ngohuutoan\Desktop\Job\01. PBA PC Program - V02\obj\Debug\ManageMaterialPBA.HHP.resources
+C:\Users\ngohuutoan\Desktop\Job\01. PBA PC Program - V02\obj\Debug\ManageMaterialPBA.KeepAndScrap.resources
+C:\Users\ngohuutoan\Desktop\Job\01. PBA PC Program - V02\obj\Debug\ManageMaterialPBA.New_Model.resources
+C:\Users\ngohuutoan\Desktop\Job\01. PBA PC Program - V02\obj\Debug\ManageMaterialPBA.Properties.Resources.resources
+C:\Users\ngohuutoan\Desktop\Job\01. PBA PC Program - V02\obj\Debug\ManageMaterialPBA.WH.resources
+C:\Users\ngohuutoan\Desktop\Job\01. PBA PC Program - V02\obj\Debug\ManageMaterialPBA.csproj.GenerateResource.cache
+C:\Users\ngohuutoan\Desktop\Job\01. PBA PC Program - V02\obj\Debug\ManageMaterialPBA.csproj.CopyComplete
+C:\Users\ngohuutoan\Desktop\Job\01. PBA PC Program - V02\obj\Debug\ManageMaterialPBA.exe
+C:\Users\ngohuutoan\Desktop\Job\01. PBA PC Program - V02\obj\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V03\01. PBA PC Program - V03\bin\Debug\ManageMaterialPBA.exe.config
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V03\01. PBA PC Program - V03\obj\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V03\01. PBA PC Program - V03\obj\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V03\01. PBA PC Program - V03\bin\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V03\01. PBA PC Program - V03\bin\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V03\01. PBA PC Program - V03\obj\Debug\ManageMaterialPBA.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V03\01. PBA PC Program - V03\obj\Debug\ManageMaterialPBA.FormDesktop.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V03\01. PBA PC Program - V03\obj\Debug\ManageMaterialPBA.Resources.Program.Remote.Server.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V03\01. PBA PC Program - V03\obj\Debug\ManageMaterialPBA.Barcode.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V03\01. PBA PC Program - V03\obj\Debug\ManageMaterialPBA.LotPCB.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V03\01. PBA PC Program - V03\obj\Debug\ManageMaterialPBA.Mounter.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V03\01. PBA PC Program - V03\obj\Debug\ManageMaterialPBA.NewCode.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V03\01. PBA PC Program - V03\obj\Debug\ManageMaterialPBA.NVL_Abnormal.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V03\01. PBA PC Program - V03\obj\Debug\ManageMaterialPBA.Material_In_Out.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V03\01. PBA PC Program - V03\obj\Debug\ManageMaterialPBA.Change_pw.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V03\01. PBA PC Program - V03\obj\Debug\ManageMaterialPBA.BOM.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V03\01. PBA PC Program - V03\obj\Debug\ManageMaterialPBA.History_doe.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V03\01. PBA PC Program - V03\obj\Debug\ManageMaterialPBA.History.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V03\01. PBA PC Program - V03\obj\Debug\ManageMaterialPBA.History_newModel.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V03\01. PBA PC Program - V03\obj\Debug\ManageMaterialPBA.AddUser.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V03\01. PBA PC Program - V03\obj\Debug\ManageMaterialPBA.DeleteUser.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V03\01. PBA PC Program - V03\obj\Debug\ManageMaterialPBA.DOE.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V03\01. PBA PC Program - V03\obj\Debug\ManageMaterialPBA.Form1.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V03\01. PBA PC Program - V03\obj\Debug\ManageMaterialPBA.EditData.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V03\01. PBA PC Program - V03\obj\Debug\ManageMaterialPBA.HHP.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V03\01. PBA PC Program - V03\obj\Debug\ManageMaterialPBA.KeepAndScrap.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V03\01. PBA PC Program - V03\obj\Debug\ManageMaterialPBA.New_Model.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V03\01. PBA PC Program - V03\obj\Debug\ManageMaterialPBA.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V03\01. PBA PC Program - V03\obj\Debug\ManageMaterialPBA.WH.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V03\01. PBA PC Program - V03\obj\Debug\ManageMaterialPBA.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04\bin\Debug\ManageMaterialPBA.exe.config
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04\obj\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04\obj\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04\bin\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04\bin\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04\obj\Debug\ManageMaterialPBA.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04\obj\Debug\ManageMaterialPBA.FormDesktop.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04\obj\Debug\ManageMaterialPBA.Resources.Program.Remote.Server.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04\obj\Debug\ManageMaterialPBA.Barcode.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04\obj\Debug\ManageMaterialPBA.LotPCB.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04\obj\Debug\ManageMaterialPBA.Mounter.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04\obj\Debug\ManageMaterialPBA.NewCode.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04\obj\Debug\ManageMaterialPBA.NVL_Abnormal.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04\obj\Debug\ManageMaterialPBA.Material_In_Out.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04\obj\Debug\ManageMaterialPBA.Change_pw.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04\obj\Debug\ManageMaterialPBA.BOM.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04\obj\Debug\ManageMaterialPBA.History_doe.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04\obj\Debug\ManageMaterialPBA.History.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04\obj\Debug\ManageMaterialPBA.History_newModel.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04\obj\Debug\ManageMaterialPBA.AddUser.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04\obj\Debug\ManageMaterialPBA.DeleteUser.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04\obj\Debug\ManageMaterialPBA.DOE.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04\obj\Debug\ManageMaterialPBA.Form1.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04\obj\Debug\ManageMaterialPBA.EditData.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04\obj\Debug\ManageMaterialPBA.HHP.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04\obj\Debug\ManageMaterialPBA.KeepAndScrap.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04\obj\Debug\ManageMaterialPBA.New_Model.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04\obj\Debug\ManageMaterialPBA.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04\obj\Debug\ManageMaterialPBA.WH.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04\obj\Debug\ManageMaterialPBA.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04\obj\Debug\ManageMaterialPBA.ConfirmLoss.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05\bin\Debug\ManageMaterialPBA.exe.config
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05\obj\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05\obj\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04.1\bin\Debug\ManageMaterialPBA.exe.config
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04.1\obj\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04.1\obj\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04.1\bin\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04.1\bin\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04.1\obj\Debug\ManageMaterialPBA.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04.1\obj\Debug\ManageMaterialPBA.FormDesktop.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04.1\obj\Debug\ManageMaterialPBA.Resources.Program.Remote.Server.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04.1\obj\Debug\ManageMaterialPBA.Barcode.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04.1\obj\Debug\ManageMaterialPBA.LotPCB.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04.1\obj\Debug\ManageMaterialPBA.Mounter.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04.1\obj\Debug\ManageMaterialPBA.NewCode.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04.1\obj\Debug\ManageMaterialPBA.NVL_Abnormal.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04.1\obj\Debug\ManageMaterialPBA.Material_In_Out.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04.1\obj\Debug\ManageMaterialPBA.Change_pw.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04.1\obj\Debug\ManageMaterialPBA.BOM.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04.1\obj\Debug\ManageMaterialPBA.History_doe.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04.1\obj\Debug\ManageMaterialPBA.History.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04.1\obj\Debug\ManageMaterialPBA.History_newModel.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04.1\obj\Debug\ManageMaterialPBA.AddUser.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04.1\obj\Debug\ManageMaterialPBA.DeleteUser.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04.1\obj\Debug\ManageMaterialPBA.DOE.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04.1\obj\Debug\ManageMaterialPBA.Form1.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04.1\obj\Debug\ManageMaterialPBA.EditData.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04.1\obj\Debug\ManageMaterialPBA.HHP.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04.1\obj\Debug\ManageMaterialPBA.KeepAndScrap.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04.1\obj\Debug\ManageMaterialPBA.New_Model.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04.1\obj\Debug\ManageMaterialPBA.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04.1\obj\Debug\ManageMaterialPBA.WH.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04.1\obj\Debug\ManageMaterialPBA.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V04.1\obj\Debug\ManageMaterialPBA.ConfirmNVLAbnormalPK.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05\bin\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05\bin\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05\obj\Debug\ManageMaterialPBA.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05\obj\Debug\ManageMaterialPBA.FormDesktop.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05\obj\Debug\ManageMaterialPBA.Resources.Program.Remote.Server.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05\obj\Debug\ManageMaterialPBA.Barcode.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05\obj\Debug\ManageMaterialPBA.ConfirmNVLAbnormalPK.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05\obj\Debug\ManageMaterialPBA.LotPCB.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05\obj\Debug\ManageMaterialPBA.Mounter.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05\obj\Debug\ManageMaterialPBA.NewCode.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05\obj\Debug\ManageMaterialPBA.NVL_Abnormal.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05\obj\Debug\ManageMaterialPBA.Material_In_Out.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05\obj\Debug\ManageMaterialPBA.Change_pw.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05\obj\Debug\ManageMaterialPBA.BOM.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05\obj\Debug\ManageMaterialPBA.History_doe.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05\obj\Debug\ManageMaterialPBA.History.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05\obj\Debug\ManageMaterialPBA.History_newModel.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05\obj\Debug\ManageMaterialPBA.AddUser.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05\obj\Debug\ManageMaterialPBA.DeleteUser.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05\obj\Debug\ManageMaterialPBA.DOE.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05\obj\Debug\ManageMaterialPBA.Form1.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05\obj\Debug\ManageMaterialPBA.EditData.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05\obj\Debug\ManageMaterialPBA.HHP.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05\obj\Debug\ManageMaterialPBA.KeepAndScrap.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05\obj\Debug\ManageMaterialPBA.New_Model.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05\obj\Debug\ManageMaterialPBA.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05\obj\Debug\ManageMaterialPBA.WH.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05\obj\Debug\ManageMaterialPBA.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05\obj\Debug\ManageMaterialPBA.SaveStock.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05\obj\Debug\ManageMaterialPBA.StockKTZ.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05\bin\Debug\Spire.Barcode.dll
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05\bin\Debug\Spire.Barcode.xml
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05.1\bin\Debug\ManageMaterialPBA.exe.config
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05.1\obj\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05.1\obj\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05.1\bin\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05.1\bin\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05.1\bin\Debug\Spire.Barcode.dll
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05.1\bin\Debug\Spire.Barcode.xml
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05.1\obj\Debug\ManageMaterialPBA.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05.1\obj\Debug\ManageMaterialPBA.FormDesktop.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05.1\obj\Debug\ManageMaterialPBA.Resources.Program.Remote.Server.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05.1\obj\Debug\ManageMaterialPBA.Barcode.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05.1\obj\Debug\ManageMaterialPBA.ConfirmNVLAbnormalPK.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05.1\obj\Debug\ManageMaterialPBA.LotPCB.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05.1\obj\Debug\ManageMaterialPBA.Mounter.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05.1\obj\Debug\ManageMaterialPBA.NewCode.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05.1\obj\Debug\ManageMaterialPBA.NVL_Abnormal.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05.1\obj\Debug\ManageMaterialPBA.Material_In_Out.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05.1\obj\Debug\ManageMaterialPBA.Change_pw.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05.1\obj\Debug\ManageMaterialPBA.BOM.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05.1\obj\Debug\ManageMaterialPBA.History_doe.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05.1\obj\Debug\ManageMaterialPBA.History.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05.1\obj\Debug\ManageMaterialPBA.History_newModel.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05.1\obj\Debug\ManageMaterialPBA.AddUser.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05.1\obj\Debug\ManageMaterialPBA.DeleteUser.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05.1\obj\Debug\ManageMaterialPBA.DOE.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05.1\obj\Debug\ManageMaterialPBA.Form1.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05.1\obj\Debug\ManageMaterialPBA.EditData.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05.1\obj\Debug\ManageMaterialPBA.HHP.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05.1\obj\Debug\ManageMaterialPBA.KeepAndScrap.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05.1\obj\Debug\ManageMaterialPBA.New_Model.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05.1\obj\Debug\ManageMaterialPBA.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05.1\obj\Debug\ManageMaterialPBA.SaveStock.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05.1\obj\Debug\ManageMaterialPBA.StockKTZ.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05.1\obj\Debug\ManageMaterialPBA.WH.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V05.1\obj\Debug\ManageMaterialPBA.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06\bin\Debug\ManageMaterialPBA.exe.config
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06\obj\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06\obj\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06\bin\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06\bin\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06\bin\Debug\Spire.Barcode.dll
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06\bin\Debug\Spire.Barcode.xml
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06\obj\Debug\ManageMaterialPBA.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06\obj\Debug\ManageMaterialPBA.FormDesktop.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06\obj\Debug\ManageMaterialPBA.Resources.Program.Remote.Server.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06\obj\Debug\ManageMaterialPBA.Barcode.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06\obj\Debug\ManageMaterialPBA.ConfirmNVLAbnormalPK.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06\obj\Debug\ManageMaterialPBA.LotPCB.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06\obj\Debug\ManageMaterialPBA.Mounter.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06\obj\Debug\ManageMaterialPBA.NewCode.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06\obj\Debug\ManageMaterialPBA.NVL_Abnormal.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06\obj\Debug\ManageMaterialPBA.Material_In_Out.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06\obj\Debug\ManageMaterialPBA.Change_pw.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06\obj\Debug\ManageMaterialPBA.BOM.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06\obj\Debug\ManageMaterialPBA.History_doe.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06\obj\Debug\ManageMaterialPBA.History.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06\obj\Debug\ManageMaterialPBA.History_newModel.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06\obj\Debug\ManageMaterialPBA.AddUser.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06\obj\Debug\ManageMaterialPBA.DeleteUser.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06\obj\Debug\ManageMaterialPBA.DOE.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06\obj\Debug\ManageMaterialPBA.Form1.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06\obj\Debug\ManageMaterialPBA.EditData.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06\obj\Debug\ManageMaterialPBA.HHP.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06\obj\Debug\ManageMaterialPBA.KeepAndScrap.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06\obj\Debug\ManageMaterialPBA.New_Model.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06\obj\Debug\ManageMaterialPBA.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06\obj\Debug\ManageMaterialPBA.SaveStock.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06\obj\Debug\ManageMaterialPBA.StockKTZ.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06\obj\Debug\ManageMaterialPBA.WH.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06\obj\Debug\ManageMaterialPBA.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06\bin\Debug\Spire.XLS.dll
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06\bin\Debug\Spire.License.dll
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06\bin\Debug\Spire.Pdf.dll
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06\bin\Debug\Spire.XLS.xml
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06\bin\Debug\Spire.License.xml
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06\bin\Debug\Spire.Pdf.xml
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06\obj\Debug\ManageMaterialPBA.StockLine.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1\bin\Debug\ManageMaterialPBA.exe.config
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1\obj\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1\obj\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1\obj\Debug\ManageMaterialPBA.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1\obj\Debug\ManageMaterialPBA.FormDesktop.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1\obj\Debug\ManageMaterialPBA.Resources.Program.Remote.Server.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1\obj\Debug\ManageMaterialPBA.Barcode.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1\obj\Debug\ManageMaterialPBA.ConfirmNVLAbnormalPK.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1\obj\Debug\ManageMaterialPBA.LotPCB.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1\obj\Debug\ManageMaterialPBA.Mounter.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1\obj\Debug\ManageMaterialPBA.NewCode.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1\obj\Debug\ManageMaterialPBA.NVL_Abnormal.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1\obj\Debug\ManageMaterialPBA.Material_In_Out.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1\obj\Debug\ManageMaterialPBA.Change_pw.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1\obj\Debug\ManageMaterialPBA.BOM.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1\obj\Debug\ManageMaterialPBA.History_doe.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1\obj\Debug\ManageMaterialPBA.History.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1\obj\Debug\ManageMaterialPBA.History_newModel.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1\obj\Debug\ManageMaterialPBA.AddUser.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1\obj\Debug\ManageMaterialPBA.DeleteUser.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1\obj\Debug\ManageMaterialPBA.DOE.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1\obj\Debug\ManageMaterialPBA.Form1.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1\obj\Debug\ManageMaterialPBA.EditData.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1\obj\Debug\ManageMaterialPBA.HHP.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1\obj\Debug\ManageMaterialPBA.KeepAndScrap.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1\obj\Debug\ManageMaterialPBA.New_Model.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1\obj\Debug\ManageMaterialPBA.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1\obj\Debug\ManageMaterialPBA.SaveStock.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1\obj\Debug\ManageMaterialPBA.StockKTZ.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1\obj\Debug\ManageMaterialPBA.StockLine.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1\obj\Debug\ManageMaterialPBA.WH.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1\obj\Debug\ManageMaterialPBA.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1\bin\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1\bin\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1\bin\Debug\Spire.Barcode.dll
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1\bin\Debug\Spire.XLS.dll
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1\bin\Debug\Spire.License.dll
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1\bin\Debug\Spire.Pdf.dll
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1\bin\Debug\Spire.Barcode.xml
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1\bin\Debug\Spire.XLS.xml
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1\bin\Debug\Spire.License.xml
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1\bin\Debug\Spire.Pdf.xml
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1 Full Not connect PC sever\bin\Debug\ManageMaterialPBA.exe.config
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1 Full Not connect PC sever\obj\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1 Full Not connect PC sever\obj\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1 Full (Not connect PC sever)\bin\Debug\ManageMaterialPBA.exe.config
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1 Full (Not connect PC sever)\bin\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1 Full (Not connect PC sever)\bin\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1 Full (Not connect PC sever)\bin\Debug\Spire.Barcode.dll
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1 Full (Not connect PC sever)\bin\Debug\Spire.XLS.dll
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1 Full (Not connect PC sever)\bin\Debug\Spire.License.dll
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1 Full (Not connect PC sever)\bin\Debug\Spire.Pdf.dll
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1 Full (Not connect PC sever)\bin\Debug\Spire.Barcode.xml
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1 Full (Not connect PC sever)\bin\Debug\Spire.XLS.xml
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1 Full (Not connect PC sever)\bin\Debug\Spire.License.xml
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1 Full (Not connect PC sever)\bin\Debug\Spire.Pdf.xml
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.FormDesktop.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.Resources.Program.Remote.Server.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.Barcode.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.ConfirmNVLAbnormalPK.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.LotPCB.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.Mounter.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.NewCode.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.NVL_Abnormal.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.Material_In_Out.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.Change_pw.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.BOM.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.History_doe.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.History.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.History_newModel.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.AddUser.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.DeleteUser.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.DOE.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.Form1.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.EditData.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.HHP.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.KeepAndScrap.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.New_Model.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.SaveStock.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.StockKTZ.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.StockLine.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.WH.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.UpdateBOM.resources
+C:\Users\Administrator\Desktop\Toan\01. PBA PC Program\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.NewBOM.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\bin\Debug\ManageMaterialPBA.exe.config
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\bin\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\bin\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\bin\Debug\Spire.Barcode.dll
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\bin\Debug\Spire.XLS.dll
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\bin\Debug\Spire.License.dll
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\bin\Debug\Spire.Pdf.dll
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\bin\Debug\Spire.Barcode.xml
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\bin\Debug\Spire.XLS.xml
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\bin\Debug\Spire.License.xml
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\bin\Debug\Spire.Pdf.xml
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.NewBOM.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.FormDesktop.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.Resources.Program.Remote.Server.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.Barcode.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.ConfirmNVLAbnormalPK.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.LotPCB.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.Mounter.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.NewCode.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.NVL_Abnormal.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.Material_In_Out.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.Change_pw.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.BOM.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.History_doe.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.History.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.History_newModel.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.AddUser.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.DeleteUser.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.DOE.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.Form1.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.EditData.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.HHP.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.KeepAndScrap.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.New_Model.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.SaveStock.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.StockKTZ.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.StockLine.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.WH.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.UpdateBOM.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.csproj.GenerateResource.Cache
+C:\Users\SDIV\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\bin\Debug\ManageMaterialPBA.exe.config
+C:\Users\SDIV\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.exe
+C:\Users\SDIV\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.pdb
+C:\Users\SDIV\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\bin\Debug\ManageMaterialPBA.exe
+C:\Users\SDIV\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\bin\Debug\ManageMaterialPBA.pdb
+C:\Users\SDIV\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\bin\Debug\Spire.License.dll
+C:\Users\SDIV\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\bin\Debug\Spire.Pdf.dll
+C:\Users\SDIV\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\bin\Debug\Spire.Barcode.xml
+C:\Users\SDIV\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\bin\Debug\Spire.XLS.xml
+C:\Users\SDIV\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\bin\Debug\Spire.License.xml
+C:\Users\SDIV\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\bin\Debug\Spire.Pdf.xml
+C:\Users\SDIV\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.csprojResolveAssemblyReference.cache
+C:\Users\SDIV\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.NewBOM.resources
+C:\Users\SDIV\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.FormDesktop.resources
+C:\Users\SDIV\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.Resources.Program.Remote.Server.resources
+C:\Users\SDIV\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.Barcode.resources
+C:\Users\SDIV\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.ConfirmNVLAbnormalPK.resources
+C:\Users\SDIV\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.LotPCB.resources
+C:\Users\SDIV\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.Mounter.resources
+C:\Users\SDIV\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.NewCode.resources
+C:\Users\SDIV\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.NVL_Abnormal.resources
+C:\Users\SDIV\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.Material_In_Out.resources
+C:\Users\SDIV\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.Change_pw.resources
+C:\Users\SDIV\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.BOM.resources
+C:\Users\SDIV\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.History_doe.resources
+C:\Users\SDIV\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.History.resources
+C:\Users\SDIV\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.History_newModel.resources
+C:\Users\SDIV\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.AddUser.resources
+C:\Users\SDIV\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.DeleteUser.resources
+C:\Users\SDIV\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.DOE.resources
+C:\Users\SDIV\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.Form1.resources
+C:\Users\SDIV\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.EditData.resources
+C:\Users\SDIV\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.HHP.resources
+C:\Users\SDIV\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.KeepAndScrap.resources
+C:\Users\SDIV\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.New_Model.resources
+C:\Users\SDIV\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.Properties.Resources.resources
+C:\Users\SDIV\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.SaveStock.resources
+C:\Users\SDIV\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.StockKTZ.resources
+C:\Users\SDIV\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.StockLine.resources
+C:\Users\SDIV\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.WH.resources
+C:\Users\SDIV\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.UpdateBOM.resources
+C:\Users\SDIV\Desktop\Project\2. SMD InOut\01. PBA PC Program - V06.1 Full (Not connect PC sever)\obj\Debug\ManageMaterialPBA.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 (Not PC sever)\bin\Debug\ManageMaterialPBA.exe.config
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 (Not PC sever)\obj\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 (Not PC sever)\obj\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 (Not PC sever)\bin\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 (Not PC sever)\bin\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 (Not PC sever)\bin\Debug\Spire.Barcode.dll
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 (Not PC sever)\bin\Debug\Spire.XLS.dll
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 (Not PC sever)\bin\Debug\Spire.License.dll
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 (Not PC sever)\bin\Debug\Spire.Pdf.dll
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 (Not PC sever)\bin\Debug\Spire.Barcode.xml
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 (Not PC sever)\bin\Debug\Spire.XLS.xml
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 (Not PC sever)\bin\Debug\Spire.License.xml
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 (Not PC sever)\bin\Debug\Spire.Pdf.xml
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 (Not PC sever)\obj\Debug\ManageMaterialPBA.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 (Not PC sever)\obj\Debug\ManageMaterialPBA.NewBOM.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 (Not PC sever)\obj\Debug\ManageMaterialPBA.FormDesktop.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 (Not PC sever)\obj\Debug\ManageMaterialPBA.Resources.Program.Remote.Server.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 (Not PC sever)\obj\Debug\ManageMaterialPBA.Barcode.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 (Not PC sever)\obj\Debug\ManageMaterialPBA.NewCode.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 (Not PC sever)\obj\Debug\ManageMaterialPBA.Material_In_Out.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 (Not PC sever)\obj\Debug\ManageMaterialPBA.Change_pw.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 (Not PC sever)\obj\Debug\ManageMaterialPBA.BOM.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 (Not PC sever)\obj\Debug\ManageMaterialPBA.AddUser.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 (Not PC sever)\obj\Debug\ManageMaterialPBA.DeleteUser.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 (Not PC sever)\obj\Debug\ManageMaterialPBA.Form1.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 (Not PC sever)\obj\Debug\ManageMaterialPBA.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 (Not PC sever)\obj\Debug\ManageMaterialPBA.SaveStock.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 (Not PC sever)\obj\Debug\ManageMaterialPBA.StockKTZ.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 (Not PC sever)\obj\Debug\ManageMaterialPBA.StockLine.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 (Not PC sever)\obj\Debug\ManageMaterialPBA.WH.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 (Not PC sever)\obj\Debug\ManageMaterialPBA.UpdateBOM.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 (Not PC sever)\obj\Debug\ManageMaterialPBA.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Program InOut SMD\bin\Debug\ManageMaterialPBA.exe.config
+C:\Users\Administrator\Desktop\Program InOut SMD\obj\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\Program InOut SMD\obj\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\Program InOut SMD\bin\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\Program InOut SMD\bin\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\Program InOut SMD\bin\Debug\Spire.License.dll
+C:\Users\Administrator\Desktop\Program InOut SMD\bin\Debug\Spire.Pdf.dll
+C:\Users\Administrator\Desktop\Program InOut SMD\bin\Debug\Spire.Barcode.xml
+C:\Users\Administrator\Desktop\Program InOut SMD\bin\Debug\Spire.XLS.xml
+C:\Users\Administrator\Desktop\Program InOut SMD\bin\Debug\Spire.License.xml
+C:\Users\Administrator\Desktop\Program InOut SMD\bin\Debug\Spire.Pdf.xml
+C:\Users\Administrator\Desktop\Program InOut SMD\obj\Debug\ManageMaterialPBA.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Program InOut SMD\obj\Debug\ManageMaterialPBA.NewBOM.resources
+C:\Users\Administrator\Desktop\Program InOut SMD\obj\Debug\ManageMaterialPBA.FormDesktop.resources
+C:\Users\Administrator\Desktop\Program InOut SMD\obj\Debug\ManageMaterialPBA.Resources.Program.Remote.Server.resources
+C:\Users\Administrator\Desktop\Program InOut SMD\obj\Debug\ManageMaterialPBA.Barcode.resources
+C:\Users\Administrator\Desktop\Program InOut SMD\obj\Debug\ManageMaterialPBA.ConfirmNVLAbnormalPK.resources
+C:\Users\Administrator\Desktop\Program InOut SMD\obj\Debug\ManageMaterialPBA.LotPCB.resources
+C:\Users\Administrator\Desktop\Program InOut SMD\obj\Debug\ManageMaterialPBA.Mounter.resources
+C:\Users\Administrator\Desktop\Program InOut SMD\obj\Debug\ManageMaterialPBA.NewCode.resources
+C:\Users\Administrator\Desktop\Program InOut SMD\obj\Debug\ManageMaterialPBA.NVL_Abnormal.resources
+C:\Users\Administrator\Desktop\Program InOut SMD\obj\Debug\ManageMaterialPBA.Material_In_Out.resources
+C:\Users\Administrator\Desktop\Program InOut SMD\obj\Debug\ManageMaterialPBA.Change_pw.resources
+C:\Users\Administrator\Desktop\Program InOut SMD\obj\Debug\ManageMaterialPBA.BOM.resources
+C:\Users\Administrator\Desktop\Program InOut SMD\obj\Debug\ManageMaterialPBA.History_doe.resources
+C:\Users\Administrator\Desktop\Program InOut SMD\obj\Debug\ManageMaterialPBA.History.resources
+C:\Users\Administrator\Desktop\Program InOut SMD\obj\Debug\ManageMaterialPBA.History_newModel.resources
+C:\Users\Administrator\Desktop\Program InOut SMD\obj\Debug\ManageMaterialPBA.AddUser.resources
+C:\Users\Administrator\Desktop\Program InOut SMD\obj\Debug\ManageMaterialPBA.DeleteUser.resources
+C:\Users\Administrator\Desktop\Program InOut SMD\obj\Debug\ManageMaterialPBA.DOE.resources
+C:\Users\Administrator\Desktop\Program InOut SMD\obj\Debug\ManageMaterialPBA.Form1.resources
+C:\Users\Administrator\Desktop\Program InOut SMD\obj\Debug\ManageMaterialPBA.EditData.resources
+C:\Users\Administrator\Desktop\Program InOut SMD\obj\Debug\ManageMaterialPBA.HHP.resources
+C:\Users\Administrator\Desktop\Program InOut SMD\obj\Debug\ManageMaterialPBA.KeepAndScrap.resources
+C:\Users\Administrator\Desktop\Program InOut SMD\obj\Debug\ManageMaterialPBA.New_Model.resources
+C:\Users\Administrator\Desktop\Program InOut SMD\obj\Debug\ManageMaterialPBA.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Program InOut SMD\obj\Debug\ManageMaterialPBA.SaveStock.resources
+C:\Users\Administrator\Desktop\Program InOut SMD\obj\Debug\ManageMaterialPBA.StockKTZ.resources
+C:\Users\Administrator\Desktop\Program InOut SMD\obj\Debug\ManageMaterialPBA.StockLine.resources
+C:\Users\Administrator\Desktop\Program InOut SMD\obj\Debug\ManageMaterialPBA.WH.resources
+C:\Users\Administrator\Desktop\Program InOut SMD\obj\Debug\ManageMaterialPBA.UpdateBOM.resources
+C:\Users\Administrator\Desktop\Program InOut SMD\obj\Debug\ManageMaterialPBA.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\SMD Management\bin\Debug\ManageMaterialPBA.exe.config
+C:\Users\Administrator\Desktop\SMD Management\obj\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\SMD Management\obj\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\SMD Management\bin\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\SMD Management\bin\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\SMD Management\bin\Debug\Spire.License.dll
+C:\Users\Administrator\Desktop\SMD Management\bin\Debug\Spire.Pdf.dll
+C:\Users\Administrator\Desktop\SMD Management\bin\Debug\Spire.Barcode.xml
+C:\Users\Administrator\Desktop\SMD Management\bin\Debug\Spire.XLS.xml
+C:\Users\Administrator\Desktop\SMD Management\bin\Debug\Spire.License.xml
+C:\Users\Administrator\Desktop\SMD Management\bin\Debug\Spire.Pdf.xml
+C:\Users\Administrator\Desktop\SMD Management\obj\Debug\ManageMaterialPBA.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SMD Management\obj\Debug\ManageMaterialPBA.NewBOM.resources
+C:\Users\Administrator\Desktop\SMD Management\obj\Debug\ManageMaterialPBA.FormDesktop.resources
+C:\Users\Administrator\Desktop\SMD Management\obj\Debug\ManageMaterialPBA.Resources.Program.Remote.Server.resources
+C:\Users\Administrator\Desktop\SMD Management\obj\Debug\ManageMaterialPBA.Barcode.resources
+C:\Users\Administrator\Desktop\SMD Management\obj\Debug\ManageMaterialPBA.ConfirmNVLAbnormalPK.resources
+C:\Users\Administrator\Desktop\SMD Management\obj\Debug\ManageMaterialPBA.LotPCB.resources
+C:\Users\Administrator\Desktop\SMD Management\obj\Debug\ManageMaterialPBA.Mounter.resources
+C:\Users\Administrator\Desktop\SMD Management\obj\Debug\ManageMaterialPBA.NewCode.resources
+C:\Users\Administrator\Desktop\SMD Management\obj\Debug\ManageMaterialPBA.NVL_Abnormal.resources
+C:\Users\Administrator\Desktop\SMD Management\obj\Debug\ManageMaterialPBA.Material_In_Out.resources
+C:\Users\Administrator\Desktop\SMD Management\obj\Debug\ManageMaterialPBA.Change_pw.resources
+C:\Users\Administrator\Desktop\SMD Management\obj\Debug\ManageMaterialPBA.BOM.resources
+C:\Users\Administrator\Desktop\SMD Management\obj\Debug\ManageMaterialPBA.History_doe.resources
+C:\Users\Administrator\Desktop\SMD Management\obj\Debug\ManageMaterialPBA.History.resources
+C:\Users\Administrator\Desktop\SMD Management\obj\Debug\ManageMaterialPBA.History_newModel.resources
+C:\Users\Administrator\Desktop\SMD Management\obj\Debug\ManageMaterialPBA.AddUser.resources
+C:\Users\Administrator\Desktop\SMD Management\obj\Debug\ManageMaterialPBA.DeleteUser.resources
+C:\Users\Administrator\Desktop\SMD Management\obj\Debug\ManageMaterialPBA.DOE.resources
+C:\Users\Administrator\Desktop\SMD Management\obj\Debug\ManageMaterialPBA.Form1.resources
+C:\Users\Administrator\Desktop\SMD Management\obj\Debug\ManageMaterialPBA.EditData.resources
+C:\Users\Administrator\Desktop\SMD Management\obj\Debug\ManageMaterialPBA.HHP.resources
+C:\Users\Administrator\Desktop\SMD Management\obj\Debug\ManageMaterialPBA.KeepAndScrap.resources
+C:\Users\Administrator\Desktop\SMD Management\obj\Debug\ManageMaterialPBA.New_Model.resources
+C:\Users\Administrator\Desktop\SMD Management\obj\Debug\ManageMaterialPBA.Properties.Resources.resources
+C:\Users\Administrator\Desktop\SMD Management\obj\Debug\ManageMaterialPBA.SaveStock.resources
+C:\Users\Administrator\Desktop\SMD Management\obj\Debug\ManageMaterialPBA.StockKTZ.resources
+C:\Users\Administrator\Desktop\SMD Management\obj\Debug\ManageMaterialPBA.StockLine.resources
+C:\Users\Administrator\Desktop\SMD Management\obj\Debug\ManageMaterialPBA.WH.resources
+C:\Users\Administrator\Desktop\SMD Management\obj\Debug\ManageMaterialPBA.UpdateBOM.resources
+C:\Users\Administrator\Desktop\SMD Management\obj\Debug\ManageMaterialPBA.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 (Not PC sever)\obj\Debug\ManageMaterialPBA.ConfirmIn.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever)\bin\Debug\ManageMaterialPBA.exe.config
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever)\obj\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever)\obj\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever)\bin\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever)\bin\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever)\bin\Debug\Spire.Barcode.dll
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever)\bin\Debug\Spire.XLS.dll
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever)\bin\Debug\Spire.License.dll
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever)\bin\Debug\Spire.Pdf.dll
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever)\bin\Debug\Spire.Barcode.xml
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever)\bin\Debug\Spire.XLS.xml
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever)\bin\Debug\Spire.License.xml
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever)\bin\Debug\Spire.Pdf.xml
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever)\obj\Debug\ManageMaterialPBA.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever)\obj\Debug\ManageMaterialPBA.NewBOM.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever)\obj\Debug\ManageMaterialPBA.FormDesktop.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever)\obj\Debug\ManageMaterialPBA.Resources.Program.Remote.Server.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever)\obj\Debug\ManageMaterialPBA.Barcode.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever)\obj\Debug\ManageMaterialPBA.ConfirmIn.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever)\obj\Debug\ManageMaterialPBA.NewCode.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever)\obj\Debug\ManageMaterialPBA.Material_In_Out.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever)\obj\Debug\ManageMaterialPBA.Change_pw.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever)\obj\Debug\ManageMaterialPBA.BOM.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever)\obj\Debug\ManageMaterialPBA.AddUser.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever)\obj\Debug\ManageMaterialPBA.DeleteUser.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever)\obj\Debug\ManageMaterialPBA.Form1.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever)\obj\Debug\ManageMaterialPBA.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever)\obj\Debug\ManageMaterialPBA.SaveStock.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever)\obj\Debug\ManageMaterialPBA.StockKTZ.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever)\obj\Debug\ManageMaterialPBA.StockLine.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever)\obj\Debug\ManageMaterialPBA.WH.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever)\obj\Debug\ManageMaterialPBA.UpdateBOM.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever)\obj\Debug\ManageMaterialPBA.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever) - Update In Code\bin\Debug\ManageMaterialPBA.exe.config
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever) - Update In Code\obj\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever) - Update In Code\obj\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever) - Update In Code\bin\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever) - Update In Code\bin\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever) - Update In Code\bin\Debug\Spire.Barcode.dll
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever) - Update In Code\bin\Debug\Spire.XLS.dll
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever) - Update In Code\bin\Debug\Spire.License.dll
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever) - Update In Code\bin\Debug\Spire.Pdf.dll
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever) - Update In Code\bin\Debug\Spire.Barcode.xml
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever) - Update In Code\bin\Debug\Spire.XLS.xml
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever) - Update In Code\bin\Debug\Spire.License.xml
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever) - Update In Code\bin\Debug\Spire.Pdf.xml
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever) - Update In Code\obj\Debug\ManageMaterialPBA.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever) - Update In Code\obj\Debug\ManageMaterialPBA.NewBOM.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever) - Update In Code\obj\Debug\ManageMaterialPBA.FormDesktop.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever) - Update In Code\obj\Debug\ManageMaterialPBA.Resources.Program.Remote.Server.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever) - Update In Code\obj\Debug\ManageMaterialPBA.Barcode.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever) - Update In Code\obj\Debug\ManageMaterialPBA.ChangeSetupIn.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever) - Update In Code\obj\Debug\ManageMaterialPBA.ConfirmIn.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever) - Update In Code\obj\Debug\ManageMaterialPBA.NewCode.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever) - Update In Code\obj\Debug\ManageMaterialPBA.Material_In_Out.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever) - Update In Code\obj\Debug\ManageMaterialPBA.Change_pw.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever) - Update In Code\obj\Debug\ManageMaterialPBA.BOM.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever) - Update In Code\obj\Debug\ManageMaterialPBA.AddUser.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever) - Update In Code\obj\Debug\ManageMaterialPBA.DeleteUser.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever) - Update In Code\obj\Debug\ManageMaterialPBA.Form1.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever) - Update In Code\obj\Debug\ManageMaterialPBA.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever) - Update In Code\obj\Debug\ManageMaterialPBA.SaveStock.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever) - Update In Code\obj\Debug\ManageMaterialPBA.StockKTZ.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever) - Update In Code\obj\Debug\ManageMaterialPBA.StockLine.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever) - Update In Code\obj\Debug\ManageMaterialPBA.WH.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever) - Update In Code\obj\Debug\ManageMaterialPBA.UpdateBOM.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 rutgon (Not PC sever) - Update In Code\obj\Debug\ManageMaterialPBA.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 (Not PC sever)\obj\Debug\ManageMaterialPBA.ChangeSetupIn.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program - V01 (Not PC sever)\obj\Debug\ManageMaterialPBA.InformationPicture.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program\bin\Debug\ManageMaterialPBA.exe.config
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program\obj\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program\obj\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program\bin\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program\bin\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program\bin\Debug\Spire.Barcode.dll
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program\bin\Debug\Spire.XLS.dll
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program\bin\Debug\Spire.License.dll
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program\bin\Debug\Spire.Pdf.dll
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program\bin\Debug\Spire.Barcode.xml
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program\bin\Debug\Spire.XLS.xml
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program\bin\Debug\Spire.License.xml
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program\bin\Debug\Spire.Pdf.xml
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program\obj\Debug\ManageMaterialPBA.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program\obj\Debug\ManageMaterialPBA.NewBOM.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program\obj\Debug\ManageMaterialPBA.FormDesktop.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program\obj\Debug\ManageMaterialPBA.Resources.Program.Remote.Server.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program\obj\Debug\ManageMaterialPBA.Barcode.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program\obj\Debug\ManageMaterialPBA.ConfirmIn.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program\obj\Debug\ManageMaterialPBA.InformationPicture.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program\obj\Debug\ManageMaterialPBA.NewCode.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program\obj\Debug\ManageMaterialPBA.Material_In_Out.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program\obj\Debug\ManageMaterialPBA.Change_pw.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program\obj\Debug\ManageMaterialPBA.BOM.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program\obj\Debug\ManageMaterialPBA.AddUser.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program\obj\Debug\ManageMaterialPBA.DeleteUser.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program\obj\Debug\ManageMaterialPBA.Form1.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program\obj\Debug\ManageMaterialPBA.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program\obj\Debug\ManageMaterialPBA.StockKTZ.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program\obj\Debug\ManageMaterialPBA.StockLine.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program\obj\Debug\ManageMaterialPBA.WH.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program\obj\Debug\ManageMaterialPBA.UpdateBOM.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program\obj\Debug\ManageMaterialPBA.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program\obj\Debug\ManageMaterialPBA.ID_scan.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program\obj\Debug\ManageMaterialPBA.IDscan2.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program\obj\Debug\ManageMaterialPBA.IDscanPrint.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program\obj\Debug\ManageMaterialPBA.TraceHistory.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program\obj\Debug\ManageMaterialPBA.ConfirmInKTZ.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program\obj\Debug\ManageMaterialPBA.ConfirmWHKTZ.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program\obj\Debug\ManageMaterialPBA.ConfirmInOut.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program\obj\Debug\ManageMaterialPBA.StockKTZ2.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program\obj\Debug\ManageMaterialPBA.StockLine2.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01. SMD Program\obj\Debug\ManageMaterialPBA.ConfirmFiFo.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01.SMD Program\bin\Debug\ManageMaterialPBA.exe.config
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01.SMD Program\obj\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01.SMD Program\obj\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01.SMD Program\bin\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01.SMD Program\bin\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01.SMD Program\bin\Debug\Spire.Barcode.dll
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01.SMD Program\bin\Debug\Spire.XLS.dll
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01.SMD Program\bin\Debug\Spire.License.dll
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01.SMD Program\bin\Debug\Spire.Pdf.dll
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01.SMD Program\bin\Debug\Spire.Barcode.xml
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01.SMD Program\bin\Debug\Spire.XLS.xml
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01.SMD Program\bin\Debug\Spire.License.xml
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01.SMD Program\bin\Debug\Spire.Pdf.xml
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01.SMD Program\obj\Debug\ManageMaterialPBA.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01.SMD Program\obj\Debug\ManageMaterialPBA.NewBOM.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01.SMD Program\obj\Debug\ManageMaterialPBA.FormDesktop.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01.SMD Program\obj\Debug\ManageMaterialPBA.Resources.Program.Remote.Server.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01.SMD Program\obj\Debug\ManageMaterialPBA.Barcode.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01.SMD Program\obj\Debug\ManageMaterialPBA.ConfirmFiFo.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01.SMD Program\obj\Debug\ManageMaterialPBA.ConfirmIn.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01.SMD Program\obj\Debug\ManageMaterialPBA.ConfirmInKTZ.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01.SMD Program\obj\Debug\ManageMaterialPBA.ConfirmInOut.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01.SMD Program\obj\Debug\ManageMaterialPBA.ConfirmWHKTZ.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01.SMD Program\obj\Debug\ManageMaterialPBA.ID_scan.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01.SMD Program\obj\Debug\ManageMaterialPBA.IDscan2.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01.SMD Program\obj\Debug\ManageMaterialPBA.IDscanPrint.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01.SMD Program\obj\Debug\ManageMaterialPBA.InformationPicture.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01.SMD Program\obj\Debug\ManageMaterialPBA.NewCode.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01.SMD Program\obj\Debug\ManageMaterialPBA.Material_In_Out.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01.SMD Program\obj\Debug\ManageMaterialPBA.Change_pw.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01.SMD Program\obj\Debug\ManageMaterialPBA.BOM.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01.SMD Program\obj\Debug\ManageMaterialPBA.AddUser.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01.SMD Program\obj\Debug\ManageMaterialPBA.DeleteUser.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01.SMD Program\obj\Debug\ManageMaterialPBA.Form1.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01.SMD Program\obj\Debug\ManageMaterialPBA.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01.SMD Program\obj\Debug\ManageMaterialPBA.StockKTZ.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01.SMD Program\obj\Debug\ManageMaterialPBA.StockKTZ2.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01.SMD Program\obj\Debug\ManageMaterialPBA.StockLine.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01.SMD Program\obj\Debug\ManageMaterialPBA.StockLine2.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01.SMD Program\obj\Debug\ManageMaterialPBA.TraceHistory.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01.SMD Program\obj\Debug\ManageMaterialPBA.WH.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01.SMD Program\obj\Debug\ManageMaterialPBA.UpdateBOM.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\01.SMD Program\obj\Debug\ManageMaterialPBA.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\New folder\bin\Debug\ManageMaterialPBA.exe.config
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\New folder\obj\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\New folder\obj\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\New folder\bin\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\New folder\bin\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\New folder\bin\Debug\Spire.Barcode.dll
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\New folder\bin\Debug\Spire.XLS.dll
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\New folder\bin\Debug\Spire.License.dll
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\New folder\bin\Debug\Spire.Pdf.dll
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\New folder\bin\Debug\Spire.Barcode.xml
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\New folder\bin\Debug\Spire.XLS.xml
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\New folder\bin\Debug\Spire.License.xml
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\New folder\bin\Debug\Spire.Pdf.xml
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\New folder\obj\Debug\ManageMaterialPBA.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\New folder\obj\Debug\ManageMaterialPBA.NewBOM.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\New folder\obj\Debug\ManageMaterialPBA.FormDesktop.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\New folder\obj\Debug\ManageMaterialPBA.Resources.Program.Remote.Server.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\New folder\obj\Debug\ManageMaterialPBA.Barcode.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\New folder\obj\Debug\ManageMaterialPBA.ConfirmFiFo.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\New folder\obj\Debug\ManageMaterialPBA.ConfirmIn.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\New folder\obj\Debug\ManageMaterialPBA.ConfirmInKTZ.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\New folder\obj\Debug\ManageMaterialPBA.ConfirmInOut.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\New folder\obj\Debug\ManageMaterialPBA.ConfirmWHKTZ.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\New folder\obj\Debug\ManageMaterialPBA.ID_scan.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\New folder\obj\Debug\ManageMaterialPBA.IDscan2.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\New folder\obj\Debug\ManageMaterialPBA.IDscanPrint.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\New folder\obj\Debug\ManageMaterialPBA.InformationPicture.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\New folder\obj\Debug\ManageMaterialPBA.NewCode.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\New folder\obj\Debug\ManageMaterialPBA.Material_In_Out.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\New folder\obj\Debug\ManageMaterialPBA.Change_pw.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\New folder\obj\Debug\ManageMaterialPBA.BOM.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\New folder\obj\Debug\ManageMaterialPBA.AddUser.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\New folder\obj\Debug\ManageMaterialPBA.DeleteUser.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\New folder\obj\Debug\ManageMaterialPBA.Form1.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\New folder\obj\Debug\ManageMaterialPBA.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\New folder\obj\Debug\ManageMaterialPBA.StockKTZ.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\New folder\obj\Debug\ManageMaterialPBA.StockKTZ2.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\New folder\obj\Debug\ManageMaterialPBA.StockLine.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\New folder\obj\Debug\ManageMaterialPBA.StockLine2.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\New folder\obj\Debug\ManageMaterialPBA.TraceHistory.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\New folder\obj\Debug\ManageMaterialPBA.WH.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\New folder\obj\Debug\ManageMaterialPBA.UpdateBOM.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\New folder\obj\Debug\ManageMaterialPBA.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\1. SMD Program\bin\Debug\ManageMaterialPBA.exe.config
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\1. SMD Program\obj\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\1. SMD Program\obj\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\1. SMD Program\bin\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\1. SMD Program\bin\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\1. SMD Program\bin\Debug\Spire.Barcode.dll
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\1. SMD Program\bin\Debug\Spire.XLS.dll
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\1. SMD Program\bin\Debug\Spire.License.dll
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\1. SMD Program\bin\Debug\Spire.Pdf.dll
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\1. SMD Program\bin\Debug\Spire.Barcode.xml
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\1. SMD Program\bin\Debug\Spire.XLS.xml
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\1. SMD Program\bin\Debug\Spire.License.xml
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\1. SMD Program\bin\Debug\Spire.Pdf.xml
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\1. SMD Program\obj\Debug\ManageMaterialPBA.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\1. SMD Program\obj\Debug\ManageMaterialPBA.NewBOM.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\1. SMD Program\obj\Debug\ManageMaterialPBA.FormDesktop.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\1. SMD Program\obj\Debug\ManageMaterialPBA.Resources.Program.Remote.Server.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\1. SMD Program\obj\Debug\ManageMaterialPBA.Barcode.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\1. SMD Program\obj\Debug\ManageMaterialPBA.ConfirmFiFo.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\1. SMD Program\obj\Debug\ManageMaterialPBA.ConfirmIn.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\1. SMD Program\obj\Debug\ManageMaterialPBA.ConfirmInKTZ.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\1. SMD Program\obj\Debug\ManageMaterialPBA.ConfirmInOut.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\1. SMD Program\obj\Debug\ManageMaterialPBA.ConfirmWHKTZ.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\1. SMD Program\obj\Debug\ManageMaterialPBA.ID_scan.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\1. SMD Program\obj\Debug\ManageMaterialPBA.IDscan2.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\1. SMD Program\obj\Debug\ManageMaterialPBA.IDscanPrint.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\1. SMD Program\obj\Debug\ManageMaterialPBA.InformationPicture.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\1. SMD Program\obj\Debug\ManageMaterialPBA.NewCode.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\1. SMD Program\obj\Debug\ManageMaterialPBA.Material_In_Out.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\1. SMD Program\obj\Debug\ManageMaterialPBA.Change_pw.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\1. SMD Program\obj\Debug\ManageMaterialPBA.BOM.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\1. SMD Program\obj\Debug\ManageMaterialPBA.AddUser.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\1. SMD Program\obj\Debug\ManageMaterialPBA.DeleteUser.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\1. SMD Program\obj\Debug\ManageMaterialPBA.Form1.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\1. SMD Program\obj\Debug\ManageMaterialPBA.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\1. SMD Program\obj\Debug\ManageMaterialPBA.StockKTZ.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\1. SMD Program\obj\Debug\ManageMaterialPBA.StockKTZ2.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\1. SMD Program\obj\Debug\ManageMaterialPBA.StockLine.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\1. SMD Program\obj\Debug\ManageMaterialPBA.StockLine2.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\1. SMD Program\obj\Debug\ManageMaterialPBA.TraceHistory.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\1. SMD Program\obj\Debug\ManageMaterialPBA.WH.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\1. SMD Program\obj\Debug\ManageMaterialPBA.UpdateBOM.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\1. SMD Program\obj\Debug\ManageMaterialPBA.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\1. SMD Program\obj\Debug\ManageMaterialPBA.StockNVL.resources
+C:\Users\Administrator\Desktop\New folder (3)\bin\Debug\ManageMaterialPBA.exe.config
+C:\Users\Administrator\Desktop\New folder (3)\obj\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\New folder (3)\obj\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\SMD InOut - USB\bin\Debug\ManageMaterialPBA.exe.config
+C:\Users\Administrator\Desktop\SMD InOut - USB\obj\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\SMD InOut - USB\obj\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\SMD InOut - USB\bin\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\SMD InOut - USB\bin\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\SMD InOut - USB\bin\Debug\Spire.License.dll
+C:\Users\Administrator\Desktop\SMD InOut - USB\bin\Debug\Spire.Pdf.dll
+C:\Users\Administrator\Desktop\SMD InOut - USB\bin\Debug\Spire.Barcode.xml
+C:\Users\Administrator\Desktop\SMD InOut - USB\bin\Debug\Spire.XLS.xml
+C:\Users\Administrator\Desktop\SMD InOut - USB\bin\Debug\Spire.License.xml
+C:\Users\Administrator\Desktop\SMD InOut - USB\bin\Debug\Spire.Pdf.xml
+C:\Users\Administrator\Desktop\SMD InOut - USB\obj\Debug\ManageMaterialPBA.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SMD InOut - USB\obj\Debug\ManageMaterialPBA.NewBOM.resources
+C:\Users\Administrator\Desktop\SMD InOut - USB\obj\Debug\ManageMaterialPBA.FormDesktop.resources
+C:\Users\Administrator\Desktop\SMD InOut - USB\obj\Debug\ManageMaterialPBA.Resources.Program.Remote.Server.resources
+C:\Users\Administrator\Desktop\SMD InOut - USB\obj\Debug\ManageMaterialPBA.Barcode.resources
+C:\Users\Administrator\Desktop\SMD InOut - USB\obj\Debug\ManageMaterialPBA.ConfirmFiFo.resources
+C:\Users\Administrator\Desktop\SMD InOut - USB\obj\Debug\ManageMaterialPBA.ConfirmIn.resources
+C:\Users\Administrator\Desktop\SMD InOut - USB\obj\Debug\ManageMaterialPBA.ConfirmInKTZ.resources
+C:\Users\Administrator\Desktop\SMD InOut - USB\obj\Debug\ManageMaterialPBA.ConfirmInOut.resources
+C:\Users\Administrator\Desktop\SMD InOut - USB\obj\Debug\ManageMaterialPBA.ConfirmWHKTZ.resources
+C:\Users\Administrator\Desktop\SMD InOut - USB\obj\Debug\ManageMaterialPBA.ID_scan.resources
+C:\Users\Administrator\Desktop\SMD InOut - USB\obj\Debug\ManageMaterialPBA.IDscan2.resources
+C:\Users\Administrator\Desktop\SMD InOut - USB\obj\Debug\ManageMaterialPBA.IDscanPrint.resources
+C:\Users\Administrator\Desktop\SMD InOut - USB\obj\Debug\ManageMaterialPBA.InformationPicture.resources
+C:\Users\Administrator\Desktop\SMD InOut - USB\obj\Debug\ManageMaterialPBA.NewCode.resources
+C:\Users\Administrator\Desktop\SMD InOut - USB\obj\Debug\ManageMaterialPBA.Material_In_Out.resources
+C:\Users\Administrator\Desktop\SMD InOut - USB\obj\Debug\ManageMaterialPBA.Change_pw.resources
+C:\Users\Administrator\Desktop\SMD InOut - USB\obj\Debug\ManageMaterialPBA.BOM.resources
+C:\Users\Administrator\Desktop\SMD InOut - USB\obj\Debug\ManageMaterialPBA.AddUser.resources
+C:\Users\Administrator\Desktop\SMD InOut - USB\obj\Debug\ManageMaterialPBA.DeleteUser.resources
+C:\Users\Administrator\Desktop\SMD InOut - USB\obj\Debug\ManageMaterialPBA.Form1.resources
+C:\Users\Administrator\Desktop\SMD InOut - USB\obj\Debug\ManageMaterialPBA.Properties.Resources.resources
+C:\Users\Administrator\Desktop\SMD InOut - USB\obj\Debug\ManageMaterialPBA.StockKTZ.resources
+C:\Users\Administrator\Desktop\SMD InOut - USB\obj\Debug\ManageMaterialPBA.StockKTZ2.resources
+C:\Users\Administrator\Desktop\SMD InOut - USB\obj\Debug\ManageMaterialPBA.StockLine.resources
+C:\Users\Administrator\Desktop\SMD InOut - USB\obj\Debug\ManageMaterialPBA.StockLine2.resources
+C:\Users\Administrator\Desktop\SMD InOut - USB\obj\Debug\ManageMaterialPBA.StockNVL.resources
+C:\Users\Administrator\Desktop\SMD InOut - USB\obj\Debug\ManageMaterialPBA.TraceHistory.resources
+C:\Users\Administrator\Desktop\SMD InOut - USB\obj\Debug\ManageMaterialPBA.WH.resources
+C:\Users\Administrator\Desktop\SMD InOut - USB\obj\Debug\ManageMaterialPBA.UpdateBOM.resources
+C:\Users\Administrator\Desktop\SMD InOut - USB\obj\Debug\ManageMaterialPBA.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\bin\Debug\ManageMaterialPBA.exe.config
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\obj\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\obj\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\bin\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\bin\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\bin\Debug\Spire.Barcode.dll
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\bin\Debug\Spire.XLS.dll
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\bin\Debug\Spire.License.dll
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\bin\Debug\Spire.Pdf.dll
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\bin\Debug\Spire.Barcode.xml
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\bin\Debug\Spire.XLS.xml
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\bin\Debug\Spire.License.xml
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\bin\Debug\Spire.Pdf.xml
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\obj\Debug\ManageMaterialPBA.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\obj\Debug\ManageMaterialPBA.FormDesktop.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\obj\Debug\ManageMaterialPBA.Resources.Program.Remote.Server.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\obj\Debug\ManageMaterialPBA.Barcode.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\obj\Debug\ManageMaterialPBA.ConfirmFiFo.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\obj\Debug\ManageMaterialPBA.ConfirmInKTZ.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\obj\Debug\ManageMaterialPBA.ConfirmInOut.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\obj\Debug\ManageMaterialPBA.ConfirmWHKTZ.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\obj\Debug\ManageMaterialPBA.InformationPicture.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\obj\Debug\ManageMaterialPBA.NewCode.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\obj\Debug\ManageMaterialPBA.Change_pw.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\obj\Debug\ManageMaterialPBA.BOM.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\obj\Debug\ManageMaterialPBA.AddUser.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\obj\Debug\ManageMaterialPBA.DeleteUser.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\obj\Debug\ManageMaterialPBA.Form1.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\obj\Debug\ManageMaterialPBA.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\obj\Debug\ManageMaterialPBA.StockKTZ.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\obj\Debug\ManageMaterialPBA.StockKTZ2.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\obj\Debug\ManageMaterialPBA.StockLine.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\obj\Debug\ManageMaterialPBA.StockLine2.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\obj\Debug\ManageMaterialPBA.StockNVL.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\obj\Debug\ManageMaterialPBA.TraceHistory.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\obj\Debug\ManageMaterialPBA.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\toan\221123_SMD Program\bin\Debug\ManageMaterialPBA.exe.config
+C:\Users\Administrator\Desktop\toan\221123_SMD Program\obj\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\toan\221123_SMD Program\obj\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\toan\221123_SMD Program\bin\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\toan\221123_SMD Program\bin\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\toan\221123_SMD Program\bin\Debug\Spire.License.dll
+C:\Users\Administrator\Desktop\toan\221123_SMD Program\bin\Debug\Spire.Pdf.dll
+C:\Users\Administrator\Desktop\toan\221123_SMD Program\bin\Debug\Spire.Barcode.xml
+C:\Users\Administrator\Desktop\toan\221123_SMD Program\bin\Debug\Spire.XLS.xml
+C:\Users\Administrator\Desktop\toan\221123_SMD Program\bin\Debug\Spire.License.xml
+C:\Users\Administrator\Desktop\toan\221123_SMD Program\bin\Debug\Spire.Pdf.xml
+C:\Users\Administrator\Desktop\toan\221123_SMD Program\obj\Debug\ManageMaterialPBA.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\toan\221123_SMD Program\obj\Debug\ManageMaterialPBA.FormDesktop.resources
+C:\Users\Administrator\Desktop\toan\221123_SMD Program\obj\Debug\ManageMaterialPBA.Resources.Program.Remote.Server.resources
+C:\Users\Administrator\Desktop\toan\221123_SMD Program\obj\Debug\ManageMaterialPBA.Barcode.resources
+C:\Users\Administrator\Desktop\toan\221123_SMD Program\obj\Debug\ManageMaterialPBA.ConfirmFiFo.resources
+C:\Users\Administrator\Desktop\toan\221123_SMD Program\obj\Debug\ManageMaterialPBA.ConfirmInKTZ.resources
+C:\Users\Administrator\Desktop\toan\221123_SMD Program\obj\Debug\ManageMaterialPBA.ConfirmInOut.resources
+C:\Users\Administrator\Desktop\toan\221123_SMD Program\obj\Debug\ManageMaterialPBA.ConfirmWHKTZ.resources
+C:\Users\Administrator\Desktop\toan\221123_SMD Program\obj\Debug\ManageMaterialPBA.InformationPicture.resources
+C:\Users\Administrator\Desktop\toan\221123_SMD Program\obj\Debug\ManageMaterialPBA.NewCode.resources
+C:\Users\Administrator\Desktop\toan\221123_SMD Program\obj\Debug\ManageMaterialPBA.Change_pw.resources
+C:\Users\Administrator\Desktop\toan\221123_SMD Program\obj\Debug\ManageMaterialPBA.BOM.resources
+C:\Users\Administrator\Desktop\toan\221123_SMD Program\obj\Debug\ManageMaterialPBA.AddUser.resources
+C:\Users\Administrator\Desktop\toan\221123_SMD Program\obj\Debug\ManageMaterialPBA.DeleteUser.resources
+C:\Users\Administrator\Desktop\toan\221123_SMD Program\obj\Debug\ManageMaterialPBA.Form1.resources
+C:\Users\Administrator\Desktop\toan\221123_SMD Program\obj\Debug\ManageMaterialPBA.Properties.Resources.resources
+C:\Users\Administrator\Desktop\toan\221123_SMD Program\obj\Debug\ManageMaterialPBA.StockKTZ.resources
+C:\Users\Administrator\Desktop\toan\221123_SMD Program\obj\Debug\ManageMaterialPBA.StockKTZ2.resources
+C:\Users\Administrator\Desktop\toan\221123_SMD Program\obj\Debug\ManageMaterialPBA.StockLine.resources
+C:\Users\Administrator\Desktop\toan\221123_SMD Program\obj\Debug\ManageMaterialPBA.StockLine2.resources
+C:\Users\Administrator\Desktop\toan\221123_SMD Program\obj\Debug\ManageMaterialPBA.StockNVL.resources
+C:\Users\Administrator\Desktop\toan\221123_SMD Program\obj\Debug\ManageMaterialPBA.TraceHistory.resources
+C:\Users\Administrator\Desktop\toan\221123_SMD Program\obj\Debug\ManageMaterialPBA.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\New folder\bin\Debug\ManageMaterialPBA.exe.config
+C:\Users\Administrator\Desktop\New folder\obj\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\New folder\obj\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\New folder\bin\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\New folder\bin\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\New folder\bin\Debug\Spire.Barcode.dll
+C:\Users\Administrator\Desktop\New folder\bin\Debug\Spire.XLS.dll
+C:\Users\Administrator\Desktop\New folder\bin\Debug\Spire.License.dll
+C:\Users\Administrator\Desktop\New folder\bin\Debug\Spire.Pdf.dll
+C:\Users\Administrator\Desktop\New folder\bin\Debug\Spire.Barcode.xml
+C:\Users\Administrator\Desktop\New folder\bin\Debug\Spire.XLS.xml
+C:\Users\Administrator\Desktop\New folder\bin\Debug\Spire.License.xml
+C:\Users\Administrator\Desktop\New folder\bin\Debug\Spire.Pdf.xml
+C:\Users\Administrator\Desktop\New folder\obj\Debug\ManageMaterialPBA.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\New folder\obj\Debug\ManageMaterialPBA.FormDesktop.resources
+C:\Users\Administrator\Desktop\New folder\obj\Debug\ManageMaterialPBA.Resources.Program.Remote.Server.resources
+C:\Users\Administrator\Desktop\New folder\obj\Debug\ManageMaterialPBA.Barcode.resources
+C:\Users\Administrator\Desktop\New folder\obj\Debug\ManageMaterialPBA.ConfirmFiFo.resources
+C:\Users\Administrator\Desktop\New folder\obj\Debug\ManageMaterialPBA.ConfirmInKTZ.resources
+C:\Users\Administrator\Desktop\New folder\obj\Debug\ManageMaterialPBA.ConfirmInOut.resources
+C:\Users\Administrator\Desktop\New folder\obj\Debug\ManageMaterialPBA.ConfirmWHKTZ.resources
+C:\Users\Administrator\Desktop\New folder\obj\Debug\ManageMaterialPBA.InformationPicture.resources
+C:\Users\Administrator\Desktop\New folder\obj\Debug\ManageMaterialPBA.NewCode.resources
+C:\Users\Administrator\Desktop\New folder\obj\Debug\ManageMaterialPBA.Change_pw.resources
+C:\Users\Administrator\Desktop\New folder\obj\Debug\ManageMaterialPBA.BOM.resources
+C:\Users\Administrator\Desktop\New folder\obj\Debug\ManageMaterialPBA.AddUser.resources
+C:\Users\Administrator\Desktop\New folder\obj\Debug\ManageMaterialPBA.DeleteUser.resources
+C:\Users\Administrator\Desktop\New folder\obj\Debug\ManageMaterialPBA.Form1.resources
+C:\Users\Administrator\Desktop\New folder\obj\Debug\ManageMaterialPBA.Properties.Resources.resources
+C:\Users\Administrator\Desktop\New folder\obj\Debug\ManageMaterialPBA.StockKTZ.resources
+C:\Users\Administrator\Desktop\New folder\obj\Debug\ManageMaterialPBA.StockKTZ2.resources
+C:\Users\Administrator\Desktop\New folder\obj\Debug\ManageMaterialPBA.StockLine.resources
+C:\Users\Administrator\Desktop\New folder\obj\Debug\ManageMaterialPBA.StockLine2.resources
+C:\Users\Administrator\Desktop\New folder\obj\Debug\ManageMaterialPBA.StockNVL.resources
+C:\Users\Administrator\Desktop\New folder\obj\Debug\ManageMaterialPBA.TraceHistory.resources
+C:\Users\Administrator\Desktop\New folder\obj\Debug\ManageMaterialPBA.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\obj\Debug\ManageMaterialPBA.ConfirmNVL.resources
+C:\Users\ngohuutoan\Desktop\New folder (2)\bin\Debug\ManageMaterialPBA.exe.config
+C:\Users\ngohuutoan\Desktop\New folder (2)\bin\Debug\ManageMaterialPBA.exe
+C:\Users\ngohuutoan\Desktop\New folder (2)\bin\Debug\ManageMaterialPBA.pdb
+C:\Users\ngohuutoan\Desktop\New folder (2)\bin\Debug\Spire.License.dll
+C:\Users\ngohuutoan\Desktop\New folder (2)\bin\Debug\Spire.Pdf.dll
+C:\Users\ngohuutoan\Desktop\New folder (2)\bin\Debug\Microsoft.mshtml.dll
+C:\Users\ngohuutoan\Desktop\New folder (2)\bin\Debug\Spire.Barcode.xml
+C:\Users\ngohuutoan\Desktop\New folder (2)\bin\Debug\Spire.XLS.xml
+C:\Users\ngohuutoan\Desktop\New folder (2)\bin\Debug\Spire.License.xml
+C:\Users\ngohuutoan\Desktop\New folder (2)\bin\Debug\Spire.Pdf.xml
+C:\Users\ngohuutoan\Desktop\New folder (2)\obj\Debug\ManageMaterialPBA.csprojAssemblyReference.cache
+C:\Users\ngohuutoan\Desktop\New folder (2)\obj\Debug\ManageMaterialPBA.FormDesktop.resources
+C:\Users\ngohuutoan\Desktop\New folder (2)\obj\Debug\ManageMaterialPBA.Resources.Program.Remote.Server.resources
+C:\Users\ngohuutoan\Desktop\New folder (2)\obj\Debug\ManageMaterialPBA.Barcode.resources
+C:\Users\ngohuutoan\Desktop\New folder (2)\obj\Debug\ManageMaterialPBA.ConfirmFiFo.resources
+C:\Users\ngohuutoan\Desktop\New folder (2)\obj\Debug\ManageMaterialPBA.ConfirmInKTZ.resources
+C:\Users\ngohuutoan\Desktop\New folder (2)\obj\Debug\ManageMaterialPBA.ConfirmInOut.resources
+C:\Users\ngohuutoan\Desktop\New folder (2)\obj\Debug\ManageMaterialPBA.ConfirmNVL.resources
+C:\Users\ngohuutoan\Desktop\New folder (2)\obj\Debug\ManageMaterialPBA.ConfirmWHKTZ.resources
+C:\Users\ngohuutoan\Desktop\New folder (2)\obj\Debug\ManageMaterialPBA.InformationPicture.resources
+C:\Users\ngohuutoan\Desktop\New folder (2)\obj\Debug\ManageMaterialPBA.NewCode.resources
+C:\Users\ngohuutoan\Desktop\New folder (2)\obj\Debug\ManageMaterialPBA.Change_pw.resources
+C:\Users\ngohuutoan\Desktop\New folder (2)\obj\Debug\ManageMaterialPBA.BOM.resources
+C:\Users\ngohuutoan\Desktop\New folder (2)\obj\Debug\ManageMaterialPBA.AddUser.resources
+C:\Users\ngohuutoan\Desktop\New folder (2)\obj\Debug\ManageMaterialPBA.DeleteUser.resources
+C:\Users\ngohuutoan\Desktop\New folder (2)\obj\Debug\ManageMaterialPBA.Form1.resources
+C:\Users\ngohuutoan\Desktop\New folder (2)\obj\Debug\ManageMaterialPBA.Properties.Resources.resources
+C:\Users\ngohuutoan\Desktop\New folder (2)\obj\Debug\ManageMaterialPBA.StockKTZ.resources
+C:\Users\ngohuutoan\Desktop\New folder (2)\obj\Debug\ManageMaterialPBA.StockKTZ2.resources
+C:\Users\ngohuutoan\Desktop\New folder (2)\obj\Debug\ManageMaterialPBA.StockLine.resources
+C:\Users\ngohuutoan\Desktop\New folder (2)\obj\Debug\ManageMaterialPBA.StockLine2.resources
+C:\Users\ngohuutoan\Desktop\New folder (2)\obj\Debug\ManageMaterialPBA.StockNVL.resources
+C:\Users\ngohuutoan\Desktop\New folder (2)\obj\Debug\ManageMaterialPBA.TraceHistory.resources
+C:\Users\ngohuutoan\Desktop\New folder (2)\obj\Debug\ManageMaterialPBA.csproj.GenerateResource.cache
+C:\Users\ngohuutoan\Desktop\New folder (2)\obj\Debug\ManageMaterialPBA.csproj.CopyComplete
+C:\Users\ngohuutoan\Desktop\New folder (2)\obj\Debug\ManageMaterialPBA.exe
+C:\Users\ngohuutoan\Desktop\New folder (2)\obj\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\221201_Program SMD\bin\Debug\ManageMaterialPBA.exe.config
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\221201_Program SMD\obj\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\221201_Program SMD\obj\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\221201_Program SMD\bin\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\221201_Program SMD\bin\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\221201_Program SMD\bin\Debug\Spire.License.dll
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\221201_Program SMD\bin\Debug\Spire.Pdf.dll
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\221201_Program SMD\bin\Debug\Spire.Barcode.xml
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\221201_Program SMD\bin\Debug\Spire.XLS.xml
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\221201_Program SMD\bin\Debug\Spire.License.xml
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\221201_Program SMD\bin\Debug\Spire.Pdf.xml
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\221201_Program SMD\obj\Debug\ManageMaterialPBA.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\221201_Program SMD\obj\Debug\ManageMaterialPBA.FormDesktop.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\221201_Program SMD\obj\Debug\ManageMaterialPBA.Resources.Program.Remote.Server.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\221201_Program SMD\obj\Debug\ManageMaterialPBA.Barcode.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\221201_Program SMD\obj\Debug\ManageMaterialPBA.ConfirmFiFo.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\221201_Program SMD\obj\Debug\ManageMaterialPBA.ConfirmInKTZ.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\221201_Program SMD\obj\Debug\ManageMaterialPBA.ConfirmInOut.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\221201_Program SMD\obj\Debug\ManageMaterialPBA.ConfirmNVL.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\221201_Program SMD\obj\Debug\ManageMaterialPBA.ConfirmWHKTZ.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\221201_Program SMD\obj\Debug\ManageMaterialPBA.InformationPicture.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\221201_Program SMD\obj\Debug\ManageMaterialPBA.NewCode.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\221201_Program SMD\obj\Debug\ManageMaterialPBA.Change_pw.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\221201_Program SMD\obj\Debug\ManageMaterialPBA.BOM.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\221201_Program SMD\obj\Debug\ManageMaterialPBA.AddUser.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\221201_Program SMD\obj\Debug\ManageMaterialPBA.DeleteUser.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\221201_Program SMD\obj\Debug\ManageMaterialPBA.Form1.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\221201_Program SMD\obj\Debug\ManageMaterialPBA.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\221201_Program SMD\obj\Debug\ManageMaterialPBA.StockKTZ.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\221201_Program SMD\obj\Debug\ManageMaterialPBA.StockKTZ2.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\221201_Program SMD\obj\Debug\ManageMaterialPBA.StockLine.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\221201_Program SMD\obj\Debug\ManageMaterialPBA.StockLine2.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\221201_Program SMD\obj\Debug\ManageMaterialPBA.StockNVL.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\221201_Program SMD\obj\Debug\ManageMaterialPBA.TraceHistory.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\221201_Program SMD\obj\Debug\ManageMaterialPBA.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\Program SMD-PD\bin\Debug\ManageMaterialPBA.exe.config
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\Program SMD-PD\obj\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\Program SMD-PD\obj\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\Program SMD-PD\obj\Debug\ManageMaterialPBA.FormDesktop.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\Program SMD-PD\obj\Debug\ManageMaterialPBA.Resources.Program.Remote.Server.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\Program SMD-PD\obj\Debug\ManageMaterialPBA.Barcode.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\Program SMD-PD\obj\Debug\ManageMaterialPBA.ConfirmFiFo.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\Program SMD-PD\obj\Debug\ManageMaterialPBA.ConfirmInKTZ.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\Program SMD-PD\obj\Debug\ManageMaterialPBA.ConfirmInOut.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\Program SMD-PD\obj\Debug\ManageMaterialPBA.ConfirmNVL.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\Program SMD-PD\obj\Debug\ManageMaterialPBA.ConfirmWHKTZ.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\Program SMD-PD\obj\Debug\ManageMaterialPBA.InformationPicture.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\Program SMD-PD\obj\Debug\ManageMaterialPBA.NewCode.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\Program SMD-PD\obj\Debug\ManageMaterialPBA.Change_pw.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\Program SMD-PD\obj\Debug\ManageMaterialPBA.BOM.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\Program SMD-PD\obj\Debug\ManageMaterialPBA.AddUser.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\Program SMD-PD\obj\Debug\ManageMaterialPBA.DeleteUser.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\Program SMD-PD\obj\Debug\ManageMaterialPBA.Form1.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\Program SMD-PD\obj\Debug\ManageMaterialPBA.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\Program SMD-PD\obj\Debug\ManageMaterialPBA.StockKTZ.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\Program SMD-PD\obj\Debug\ManageMaterialPBA.StockKTZ2.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\Program SMD-PD\obj\Debug\ManageMaterialPBA.StockLine.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\Program SMD-PD\obj\Debug\ManageMaterialPBA.StockLine2.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\Program SMD-PD\obj\Debug\ManageMaterialPBA.StockNVL.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\Program SMD-PD\obj\Debug\ManageMaterialPBA.TraceHistory.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\Program SMD-PD\obj\Debug\ManageMaterialPBA.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\Program SMD-PD\bin\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\Program SMD-PD\bin\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\SMD program\Program SMD-PD\bin\Debug\ManageMaterialPBA.exe.config
+C:\Users\Administrator\Desktop\SMD program\Program SMD-PD\obj\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\SMD program\Program SMD-PD\obj\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\SMD program\Program SMD-PD\bin\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\SMD program\Program SMD-PD\bin\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\SMD program\Program SMD-PD\obj\Debug\ManageMaterialPBA.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SMD program\Program SMD-PD\obj\Debug\ManageMaterialPBA.FormDesktop.resources
+C:\Users\Administrator\Desktop\SMD program\Program SMD-PD\obj\Debug\ManageMaterialPBA.Resources.Program.Remote.Server.resources
+C:\Users\Administrator\Desktop\SMD program\Program SMD-PD\obj\Debug\ManageMaterialPBA.Barcode.resources
+C:\Users\Administrator\Desktop\SMD program\Program SMD-PD\obj\Debug\ManageMaterialPBA.ConfirmFiFo.resources
+C:\Users\Administrator\Desktop\SMD program\Program SMD-PD\obj\Debug\ManageMaterialPBA.ConfirmInKTZ.resources
+C:\Users\Administrator\Desktop\SMD program\Program SMD-PD\obj\Debug\ManageMaterialPBA.ConfirmInOut.resources
+C:\Users\Administrator\Desktop\SMD program\Program SMD-PD\obj\Debug\ManageMaterialPBA.ConfirmNVL.resources
+C:\Users\Administrator\Desktop\SMD program\Program SMD-PD\obj\Debug\ManageMaterialPBA.ConfirmWHKTZ.resources
+C:\Users\Administrator\Desktop\SMD program\Program SMD-PD\obj\Debug\ManageMaterialPBA.InformationPicture.resources
+C:\Users\Administrator\Desktop\SMD program\Program SMD-PD\obj\Debug\ManageMaterialPBA.NewCode.resources
+C:\Users\Administrator\Desktop\SMD program\Program SMD-PD\obj\Debug\ManageMaterialPBA.Change_pw.resources
+C:\Users\Administrator\Desktop\SMD program\Program SMD-PD\obj\Debug\ManageMaterialPBA.BOM.resources
+C:\Users\Administrator\Desktop\SMD program\Program SMD-PD\obj\Debug\ManageMaterialPBA.AddUser.resources
+C:\Users\Administrator\Desktop\SMD program\Program SMD-PD\obj\Debug\ManageMaterialPBA.DeleteUser.resources
+C:\Users\Administrator\Desktop\SMD program\Program SMD-PD\obj\Debug\ManageMaterialPBA.Form1.resources
+C:\Users\Administrator\Desktop\SMD program\Program SMD-PD\obj\Debug\ManageMaterialPBA.Properties.Resources.resources
+C:\Users\Administrator\Desktop\SMD program\Program SMD-PD\obj\Debug\ManageMaterialPBA.StockKTZ.resources
+C:\Users\Administrator\Desktop\SMD program\Program SMD-PD\obj\Debug\ManageMaterialPBA.StockKTZ2.resources
+C:\Users\Administrator\Desktop\SMD program\Program SMD-PD\obj\Debug\ManageMaterialPBA.StockLine.resources
+C:\Users\Administrator\Desktop\SMD program\Program SMD-PD\obj\Debug\ManageMaterialPBA.StockLine2.resources
+C:\Users\Administrator\Desktop\SMD program\Program SMD-PD\obj\Debug\ManageMaterialPBA.StockNVL.resources
+C:\Users\Administrator\Desktop\SMD program\Program SMD-PD\obj\Debug\ManageMaterialPBA.TraceHistory.resources
+C:\Users\Administrator\Desktop\SMD program\Program SMD-PD\obj\Debug\ManageMaterialPBA.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\SMD InOut progam\Program SMD-PD\bin\Debug\ManageMaterialPBA.exe.config
+C:\Users\Administrator\Desktop\SMD InOut progam\Program SMD-PD\obj\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\SMD InOut progam\Program SMD-PD\obj\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\SMD InOut progam\Program SMD-PD\bin\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\SMD InOut progam\Program SMD-PD\bin\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\SMD InOut progam\Program SMD-PD\obj\Debug\ManageMaterialPBA.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SMD InOut progam\Program SMD-PD\obj\Debug\ManageMaterialPBA.FormDesktop.resources
+C:\Users\Administrator\Desktop\SMD InOut progam\Program SMD-PD\obj\Debug\ManageMaterialPBA.Resources.Program.Remote.Server.resources
+C:\Users\Administrator\Desktop\SMD InOut progam\Program SMD-PD\obj\Debug\ManageMaterialPBA.Barcode.resources
+C:\Users\Administrator\Desktop\SMD InOut progam\Program SMD-PD\obj\Debug\ManageMaterialPBA.ConfirmFiFo.resources
+C:\Users\Administrator\Desktop\SMD InOut progam\Program SMD-PD\obj\Debug\ManageMaterialPBA.ConfirmInKTZ.resources
+C:\Users\Administrator\Desktop\SMD InOut progam\Program SMD-PD\obj\Debug\ManageMaterialPBA.ConfirmInOut.resources
+C:\Users\Administrator\Desktop\SMD InOut progam\Program SMD-PD\obj\Debug\ManageMaterialPBA.ConfirmNVL.resources
+C:\Users\Administrator\Desktop\SMD InOut progam\Program SMD-PD\obj\Debug\ManageMaterialPBA.ConfirmWHKTZ.resources
+C:\Users\Administrator\Desktop\SMD InOut progam\Program SMD-PD\obj\Debug\ManageMaterialPBA.InformationPicture.resources
+C:\Users\Administrator\Desktop\SMD InOut progam\Program SMD-PD\obj\Debug\ManageMaterialPBA.NewCode.resources
+C:\Users\Administrator\Desktop\SMD InOut progam\Program SMD-PD\obj\Debug\ManageMaterialPBA.Change_pw.resources
+C:\Users\Administrator\Desktop\SMD InOut progam\Program SMD-PD\obj\Debug\ManageMaterialPBA.BOM.resources
+C:\Users\Administrator\Desktop\SMD InOut progam\Program SMD-PD\obj\Debug\ManageMaterialPBA.AddUser.resources
+C:\Users\Administrator\Desktop\SMD InOut progam\Program SMD-PD\obj\Debug\ManageMaterialPBA.DeleteUser.resources
+C:\Users\Administrator\Desktop\SMD InOut progam\Program SMD-PD\obj\Debug\ManageMaterialPBA.Form1.resources
+C:\Users\Administrator\Desktop\SMD InOut progam\Program SMD-PD\obj\Debug\ManageMaterialPBA.Properties.Resources.resources
+C:\Users\Administrator\Desktop\SMD InOut progam\Program SMD-PD\obj\Debug\ManageMaterialPBA.StockKTZ.resources
+C:\Users\Administrator\Desktop\SMD InOut progam\Program SMD-PD\obj\Debug\ManageMaterialPBA.StockKTZ2.resources
+C:\Users\Administrator\Desktop\SMD InOut progam\Program SMD-PD\obj\Debug\ManageMaterialPBA.StockLine.resources
+C:\Users\Administrator\Desktop\SMD InOut progam\Program SMD-PD\obj\Debug\ManageMaterialPBA.StockLine2.resources
+C:\Users\Administrator\Desktop\SMD InOut progam\Program SMD-PD\obj\Debug\ManageMaterialPBA.StockNVL.resources
+C:\Users\Administrator\Desktop\SMD InOut progam\Program SMD-PD\obj\Debug\ManageMaterialPBA.TraceHistory.resources
+C:\Users\Administrator\Desktop\SMD InOut progam\Program SMD-PD\obj\Debug\ManageMaterialPBA.csproj.GenerateResource.Cache
+C:\Users\ngohuutoan\Desktop\PD\bin\Debug\ManageMaterialPBA.exe.config
+C:\Users\ngohuutoan\Desktop\PD\bin\Debug\ManageMaterialPBA.exe
+C:\Users\ngohuutoan\Desktop\PD\bin\Debug\ManageMaterialPBA.pdb
+C:\Users\ngohuutoan\Desktop\PD\obj\Debug\ManageMaterialPBA.csprojAssemblyReference.cache
+C:\Users\ngohuutoan\Desktop\PD\obj\Debug\ManageMaterialPBA.FormDesktop.resources
+C:\Users\ngohuutoan\Desktop\PD\obj\Debug\ManageMaterialPBA.Resources.Program.Remote.Server.resources
+C:\Users\ngohuutoan\Desktop\PD\obj\Debug\ManageMaterialPBA.Barcode.resources
+C:\Users\ngohuutoan\Desktop\PD\obj\Debug\ManageMaterialPBA.ConfirmFiFo.resources
+C:\Users\ngohuutoan\Desktop\PD\obj\Debug\ManageMaterialPBA.ConfirmInKTZ.resources
+C:\Users\ngohuutoan\Desktop\PD\obj\Debug\ManageMaterialPBA.ConfirmInOut.resources
+C:\Users\ngohuutoan\Desktop\PD\obj\Debug\ManageMaterialPBA.ConfirmNVL.resources
+C:\Users\ngohuutoan\Desktop\PD\obj\Debug\ManageMaterialPBA.ConfirmWHKTZ.resources
+C:\Users\ngohuutoan\Desktop\PD\obj\Debug\ManageMaterialPBA.InformationPicture.resources
+C:\Users\ngohuutoan\Desktop\PD\obj\Debug\ManageMaterialPBA.NewCode.resources
+C:\Users\ngohuutoan\Desktop\PD\obj\Debug\ManageMaterialPBA.Change_pw.resources
+C:\Users\ngohuutoan\Desktop\PD\obj\Debug\ManageMaterialPBA.BOM.resources
+C:\Users\ngohuutoan\Desktop\PD\obj\Debug\ManageMaterialPBA.AddUser.resources
+C:\Users\ngohuutoan\Desktop\PD\obj\Debug\ManageMaterialPBA.DeleteUser.resources
+C:\Users\ngohuutoan\Desktop\PD\obj\Debug\ManageMaterialPBA.Form1.resources
+C:\Users\ngohuutoan\Desktop\PD\obj\Debug\ManageMaterialPBA.Properties.Resources.resources
+C:\Users\ngohuutoan\Desktop\PD\obj\Debug\ManageMaterialPBA.StockKTZ.resources
+C:\Users\ngohuutoan\Desktop\PD\obj\Debug\ManageMaterialPBA.StockKTZ2.resources
+C:\Users\ngohuutoan\Desktop\PD\obj\Debug\ManageMaterialPBA.StockLine.resources
+C:\Users\ngohuutoan\Desktop\PD\obj\Debug\ManageMaterialPBA.StockLine2.resources
+C:\Users\ngohuutoan\Desktop\PD\obj\Debug\ManageMaterialPBA.StockNVL.resources
+C:\Users\ngohuutoan\Desktop\PD\obj\Debug\ManageMaterialPBA.TraceHistory.resources
+C:\Users\ngohuutoan\Desktop\PD\obj\Debug\ManageMaterialPBA.csproj.GenerateResource.cache
+C:\Users\ngohuutoan\Desktop\PD\obj\Debug\ManageMaterialPBA.csproj.CopyComplete
+C:\Users\ngohuutoan\Desktop\PD\obj\Debug\ManageMaterialPBA.exe
+C:\Users\ngohuutoan\Desktop\PD\obj\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\SMD InOut progam\New folder\PD\bin\Debug\ManageMaterialPBA.exe.config
+C:\Users\Administrator\Desktop\SMD InOut progam\New folder\PD\obj\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\SMD InOut progam\New folder\PD\obj\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\SMD InOut progam\New folder\PD\bin\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\SMD InOut progam\New folder\PD\bin\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\SMD InOut progam\New folder\PD\obj\Debug\ManageMaterialPBA.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SMD InOut progam\New folder\PD\obj\Debug\ManageMaterialPBA.FormDesktop.resources
+C:\Users\Administrator\Desktop\SMD InOut progam\New folder\PD\obj\Debug\ManageMaterialPBA.Resources.Program.Remote.Server.resources
+C:\Users\Administrator\Desktop\SMD InOut progam\New folder\PD\obj\Debug\ManageMaterialPBA.Barcode.resources
+C:\Users\Administrator\Desktop\SMD InOut progam\New folder\PD\obj\Debug\ManageMaterialPBA.ConfirmFiFo.resources
+C:\Users\Administrator\Desktop\SMD InOut progam\New folder\PD\obj\Debug\ManageMaterialPBA.ConfirmInKTZ.resources
+C:\Users\Administrator\Desktop\SMD InOut progam\New folder\PD\obj\Debug\ManageMaterialPBA.ConfirmInOut.resources
+C:\Users\Administrator\Desktop\SMD InOut progam\New folder\PD\obj\Debug\ManageMaterialPBA.ConfirmNVL.resources
+C:\Users\Administrator\Desktop\SMD InOut progam\New folder\PD\obj\Debug\ManageMaterialPBA.ConfirmWHKTZ.resources
+C:\Users\Administrator\Desktop\SMD InOut progam\New folder\PD\obj\Debug\ManageMaterialPBA.InformationPicture.resources
+C:\Users\Administrator\Desktop\SMD InOut progam\New folder\PD\obj\Debug\ManageMaterialPBA.NewCode.resources
+C:\Users\Administrator\Desktop\SMD InOut progam\New folder\PD\obj\Debug\ManageMaterialPBA.Change_pw.resources
+C:\Users\Administrator\Desktop\SMD InOut progam\New folder\PD\obj\Debug\ManageMaterialPBA.BOM.resources
+C:\Users\Administrator\Desktop\SMD InOut progam\New folder\PD\obj\Debug\ManageMaterialPBA.AddUser.resources
+C:\Users\Administrator\Desktop\SMD InOut progam\New folder\PD\obj\Debug\ManageMaterialPBA.DeleteUser.resources
+C:\Users\Administrator\Desktop\SMD InOut progam\New folder\PD\obj\Debug\ManageMaterialPBA.Form1.resources
+C:\Users\Administrator\Desktop\SMD InOut progam\New folder\PD\obj\Debug\ManageMaterialPBA.Properties.Resources.resources
+C:\Users\Administrator\Desktop\SMD InOut progam\New folder\PD\obj\Debug\ManageMaterialPBA.StockKTZ.resources
+C:\Users\Administrator\Desktop\SMD InOut progam\New folder\PD\obj\Debug\ManageMaterialPBA.StockKTZ2.resources
+C:\Users\Administrator\Desktop\SMD InOut progam\New folder\PD\obj\Debug\ManageMaterialPBA.StockLine.resources
+C:\Users\Administrator\Desktop\SMD InOut progam\New folder\PD\obj\Debug\ManageMaterialPBA.StockLine2.resources
+C:\Users\Administrator\Desktop\SMD InOut progam\New folder\PD\obj\Debug\ManageMaterialPBA.StockNVL.resources
+C:\Users\Administrator\Desktop\SMD InOut progam\New folder\PD\obj\Debug\ManageMaterialPBA.TraceHistory.resources
+C:\Users\Administrator\Desktop\SMD InOut progam\New folder\PD\obj\Debug\ManageMaterialPBA.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\PD\bin\Debug\ManageMaterialPBA.exe.config
+C:\Users\Administrator\Desktop\PD\obj\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\PD\obj\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\PD\bin\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\PD\bin\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\PD\obj\Debug\ManageMaterialPBA.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\PD\obj\Debug\ManageMaterialPBA.FormDesktop.resources
+C:\Users\Administrator\Desktop\PD\obj\Debug\ManageMaterialPBA.Resources.Program.Remote.Server.resources
+C:\Users\Administrator\Desktop\PD\obj\Debug\ManageMaterialPBA.Barcode.resources
+C:\Users\Administrator\Desktop\PD\obj\Debug\ManageMaterialPBA.ConfirmFiFo.resources
+C:\Users\Administrator\Desktop\PD\obj\Debug\ManageMaterialPBA.ConfirmInKTZ.resources
+C:\Users\Administrator\Desktop\PD\obj\Debug\ManageMaterialPBA.ConfirmInOut.resources
+C:\Users\Administrator\Desktop\PD\obj\Debug\ManageMaterialPBA.ConfirmNVL.resources
+C:\Users\Administrator\Desktop\PD\obj\Debug\ManageMaterialPBA.ConfirmWHKTZ.resources
+C:\Users\Administrator\Desktop\PD\obj\Debug\ManageMaterialPBA.InformationPicture.resources
+C:\Users\Administrator\Desktop\PD\obj\Debug\ManageMaterialPBA.NewCode.resources
+C:\Users\Administrator\Desktop\PD\obj\Debug\ManageMaterialPBA.Change_pw.resources
+C:\Users\Administrator\Desktop\PD\obj\Debug\ManageMaterialPBA.BOM.resources
+C:\Users\Administrator\Desktop\PD\obj\Debug\ManageMaterialPBA.AddUser.resources
+C:\Users\Administrator\Desktop\PD\obj\Debug\ManageMaterialPBA.DeleteUser.resources
+C:\Users\Administrator\Desktop\PD\obj\Debug\ManageMaterialPBA.Form1.resources
+C:\Users\Administrator\Desktop\PD\obj\Debug\ManageMaterialPBA.Properties.Resources.resources
+C:\Users\Administrator\Desktop\PD\obj\Debug\ManageMaterialPBA.StockKTZ.resources
+C:\Users\Administrator\Desktop\PD\obj\Debug\ManageMaterialPBA.StockKTZ2.resources
+C:\Users\Administrator\Desktop\PD\obj\Debug\ManageMaterialPBA.StockLine.resources
+C:\Users\Administrator\Desktop\PD\obj\Debug\ManageMaterialPBA.StockLine2.resources
+C:\Users\Administrator\Desktop\PD\obj\Debug\ManageMaterialPBA.StockNVL.resources
+C:\Users\Administrator\Desktop\PD\obj\Debug\ManageMaterialPBA.TraceHistory.resources
+C:\Users\Administrator\Desktop\PD\obj\Debug\ManageMaterialPBA.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\PD\bin\Debug\ManageMaterialPBA.exe.config
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\PD\obj\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\PD\obj\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\PD\bin\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\PD\bin\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\PD\obj\Debug\ManageMaterialPBA.FormDesktop.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\PD\obj\Debug\ManageMaterialPBA.Resources.Program.Remote.Server.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\PD\obj\Debug\ManageMaterialPBA.Barcode.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\PD\obj\Debug\ManageMaterialPBA.ConfirmFiFo.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\PD\obj\Debug\ManageMaterialPBA.ConfirmInKTZ.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\PD\obj\Debug\ManageMaterialPBA.ConfirmInOut.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\PD\obj\Debug\ManageMaterialPBA.ConfirmNVL.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\PD\obj\Debug\ManageMaterialPBA.ConfirmWHKTZ.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\PD\obj\Debug\ManageMaterialPBA.InformationPicture.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\PD\obj\Debug\ManageMaterialPBA.NewCode.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\PD\obj\Debug\ManageMaterialPBA.Change_pw.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\PD\obj\Debug\ManageMaterialPBA.BOM.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\PD\obj\Debug\ManageMaterialPBA.AddUser.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\PD\obj\Debug\ManageMaterialPBA.DeleteUser.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\PD\obj\Debug\ManageMaterialPBA.Form1.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\PD\obj\Debug\ManageMaterialPBA.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\PD\obj\Debug\ManageMaterialPBA.StockKTZ.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\PD\obj\Debug\ManageMaterialPBA.StockKTZ2.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\PD\obj\Debug\ManageMaterialPBA.StockLine.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\PD\obj\Debug\ManageMaterialPBA.StockLine2.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\PD\obj\Debug\ManageMaterialPBA.StockNVL.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\PD\obj\Debug\ManageMaterialPBA.TraceHistory.resources
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\PD\obj\Debug\ManageMaterialPBA.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Project\2. SMD InOut\SMD InOut-USB\PD\obj\Debug\ManageMaterialPBA.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Program Dev\5. SMD InOut Program\PD\bin\Debug\ManageMaterialPBA.exe.config
+C:\Users\Administrator\Desktop\Program Dev\5. SMD InOut Program\PD\obj\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\Program Dev\5. SMD InOut Program\PD\obj\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\Program Dev\6. SMD InOut Program\PD\bin\Debug\ManageMaterialPBA.exe.config
+C:\Users\Administrator\Desktop\Program Dev\6. SMD InOut Program\PD\obj\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\Program Dev\6. SMD InOut Program\PD\obj\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\Program Dev\6. SMD InOut Program\PD (Add solder paste)\bin\Debug\ManageMaterialPBA.exe.config
+C:\Users\Administrator\Desktop\Program Dev\6. SMD InOut Program\PD (Add solder paste)\obj\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\Program Dev\6. SMD InOut Program\PD (Add solder paste)\obj\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\Program Dev\6. SMD InOut Program\PD (Add solder paste)\bin\Debug\ManageMaterialPBA.exe
+C:\Users\Administrator\Desktop\Program Dev\6. SMD InOut Program\PD (Add solder paste)\bin\Debug\ManageMaterialPBA.pdb
+C:\Users\Administrator\Desktop\Program Dev\6. SMD InOut Program\PD (Add solder paste)\obj\Debug\ManageMaterialPBA.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Program Dev\6. SMD InOut Program\PD (Add solder paste)\obj\Debug\ManageMaterialPBA.FormDesktop.resources
+C:\Users\Administrator\Desktop\Program Dev\6. SMD InOut Program\PD (Add solder paste)\obj\Debug\ManageMaterialPBA.Resources.Program.Remote.Server.resources
+C:\Users\Administrator\Desktop\Program Dev\6. SMD InOut Program\PD (Add solder paste)\obj\Debug\ManageMaterialPBA.Barcode.resources
+C:\Users\Administrator\Desktop\Program Dev\6. SMD InOut Program\PD (Add solder paste)\obj\Debug\ManageMaterialPBA.ConfirmFiFo.resources
+C:\Users\Administrator\Desktop\Program Dev\6. SMD InOut Program\PD (Add solder paste)\obj\Debug\ManageMaterialPBA.ConfirmInKTZ.resources
+C:\Users\Administrator\Desktop\Program Dev\6. SMD InOut Program\PD (Add solder paste)\obj\Debug\ManageMaterialPBA.ConfirmInOut.resources
+C:\Users\Administrator\Desktop\Program Dev\6. SMD InOut Program\PD (Add solder paste)\obj\Debug\ManageMaterialPBA.ConfirmNVL.resources
+C:\Users\Administrator\Desktop\Program Dev\6. SMD InOut Program\PD (Add solder paste)\obj\Debug\ManageMaterialPBA.ConfirmWHKTZ.resources
+C:\Users\Administrator\Desktop\Program Dev\6. SMD InOut Program\PD (Add solder paste)\obj\Debug\ManageMaterialPBA.InformationPicture.resources
+C:\Users\Administrator\Desktop\Program Dev\6. SMD InOut Program\PD (Add solder paste)\obj\Debug\ManageMaterialPBA.NewCode.resources
+C:\Users\Administrator\Desktop\Program Dev\6. SMD InOut Program\PD (Add solder paste)\obj\Debug\ManageMaterialPBA.Change_pw.resources
+C:\Users\Administrator\Desktop\Program Dev\6. SMD InOut Program\PD (Add solder paste)\obj\Debug\ManageMaterialPBA.BOM.resources
+C:\Users\Administrator\Desktop\Program Dev\6. SMD InOut Program\PD (Add solder paste)\obj\Debug\ManageMaterialPBA.AddUser.resources
+C:\Users\Administrator\Desktop\Program Dev\6. SMD InOut Program\PD (Add solder paste)\obj\Debug\ManageMaterialPBA.DeleteUser.resources
+C:\Users\Administrator\Desktop\Program Dev\6. SMD InOut Program\PD (Add solder paste)\obj\Debug\ManageMaterialPBA.Form1.resources
+C:\Users\Administrator\Desktop\Program Dev\6. SMD InOut Program\PD (Add solder paste)\obj\Debug\ManageMaterialPBA.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Program Dev\6. SMD InOut Program\PD (Add solder paste)\obj\Debug\ManageMaterialPBA.StockKTZ.resources
+C:\Users\Administrator\Desktop\Program Dev\6. SMD InOut Program\PD (Add solder paste)\obj\Debug\ManageMaterialPBA.StockKTZ2.resources
+C:\Users\Administrator\Desktop\Program Dev\6. SMD InOut Program\PD (Add solder paste)\obj\Debug\ManageMaterialPBA.StockLine.resources
+C:\Users\Administrator\Desktop\Program Dev\6. SMD InOut Program\PD (Add solder paste)\obj\Debug\ManageMaterialPBA.StockLine2.resources
+C:\Users\Administrator\Desktop\Program Dev\6. SMD InOut Program\PD (Add solder paste)\obj\Debug\ManageMaterialPBA.StockNVL.resources
+C:\Users\Administrator\Desktop\Program Dev\6. SMD InOut Program\PD (Add solder paste)\obj\Debug\ManageMaterialPBA.TraceHistory.resources
+C:\Users\Administrator\Desktop\Program Dev\6. SMD InOut Program\PD (Add solder paste)\obj\Debug\ManageMaterialPBA.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Program Dev\6. SMD InOut Program\PD (Add solder paste)\obj\Debug\ManageMaterialPBA.SolderPaste.resources

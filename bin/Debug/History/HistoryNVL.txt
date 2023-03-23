@@ -1,0 +1,1 @@
+﻿model|codeNVL|maker|makerPart|lot|temCode|ngInTemCode|tgianInTemCode|ngNhapKho|tgianNhapKho|ngCapNVL|tgianCapNVL|PDxacnhan|tgianxacnhan|ngTraNVL|tgianTraNVL|ghiChuTra|ngTraWH|ngTraWH|ghiChuTraWH
